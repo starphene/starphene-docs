@@ -1,0 +1,1 @@
+"C:\Program Files\FreeFileSync\FreeFileSync.exe" "C:\Users\Alexey\Documents\The Retardsville\BatchRun.ffs_batch" 
