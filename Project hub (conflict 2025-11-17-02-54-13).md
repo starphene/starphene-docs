@@ -15,6 +15,8 @@ The fiction in fiction merging with the fiction real life and characters struggl
 Vierergrouppe
 Einheit
 
+Historical events as names for weapons (Century of Humiliation) 
+
 Davy crocker gun
 
 Gun with square bullets for muslims

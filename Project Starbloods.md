@@ -26,6 +26,7 @@ The Aftershock, umbrella term putting tons of small ice shards behind someone's 
 The Apathy, the ability to shapeshift a shield from ice (developed when 8, symbolizing her usage of apathy to protect herself from further trauma)
 The Alienation, ability to launch an ice spear at the enemy (developed mid book 1, symbolizing how abandonment is painful and severe)
 The Anhedonia (ability to encase oneself in an ice shell, later a very large one, developed in book 3, same symbolism as the apathy)
+The Asociality (ability to fly) 
 - Lumina (11 as of 2090, block 88, theme of light)
 Sun's Judgement, laser eyes
 Sword of Justice, yellow lightsaber
