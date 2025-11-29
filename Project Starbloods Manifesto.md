@@ -1,5 +1,9 @@
 Project Starbloods Manifesto
 
+Mechanics:
+Top down 2d combat
+"mmmhmm" type voicelines which change depending on the emotion
+
 Ricky is a boy from the extra free lab. By the time he is encountered during book 2 as a side character, he is 10 and is an absolute badass.
 Prestory: by book 3, he becomes top 5 in power. Due to an unnamed incident with the military, he and his siblings decide to make a manifesto describing the military's crimes against the people and the Starshards. For this, his siblings are executed and he is put in a simulation to reshape him. During the game, the Dorks Crew and Kate would rescue him, with Monica and Kate physically rescuing him while the other two would assist from off screen
 Layer 1: the first thing you will see will be Ricky and his siblings being driven to Murmansk where he will get acquainted with the Corks Crew. He would go on a mission mirroring the vampires' final defeat in book 2, fighting the vampire queen all by himself. However, real Kate would reveal to the player that Ricky is stuck in a simulation and that he should remember it as the highest truth of all. The simulation then starts testing his loyalty to omnislavia and trying to "extract information" from him during a simulated game of truth or dare between him and the Corks Crew, with Vici and Adrian trying to signal Ricky that they're in a simulation, and Layer 2 Kate would also gaslight the player into thinking a simulation can't read your thoughts. During the game, everything glitches out and he fights the "simulation overlord" and has Kate, Vici and Adrian rescue him from the turkish simulation into the layer 2. 
