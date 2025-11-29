@@ -11,6 +11,9 @@ Would be communicated clearly. The herbs will take disproportionately much resou
 Random events 
 Similar model to after inc, nothing to explain
 
+Collectibles and relics
+Collectibles are hidden in various layers of UI (or gameplay) and reward relics for collecting them all. Relics are permanent buffs which accumulate value with age and can be sold for gold or platinum. 
+
 Food
 Starts as a basic resource before branching out into different types of nutrients, incentivizing varied production. Feeding the population all available types of food would give productivity buffs. Starvation cascades will be made way milder by an ability to turn on rationing mode and prioritize abandoning food production last in case of depopulation (it’d also be a whole system configurable by the player). Likewise, there would be an option to increase consumption to grow population faster unlockable with the tech tree. Industrial age would introduce happiness loss from unemployment.
 
@@ -66,28 +69,31 @@ Will be accessible through pulling up the swipe left menu. The background would 
 
 
 
-Actual tech tree: (keep this line started at a decimal-1 number to calculate order better)
+Actual tech tree: (keep this line started at a decimal-1 number to calculate order better; buff nodes are visually smaller)
 Stone age: 
 Unlock building: living hut (base pop building), also gives a popup to explain the population/housing mechanic
 Buff: manually picking wood, food or stone produces 2/3/4 times of it multiplicatively (not per upgrade, the final tier is only 4x the base)
 Buff: manually picking any resource adds 2 of a different resource to the stockpiles, sometimes including furs and herbs if they're unlocked (previous upgrade must be at tier 3 to unlock)
-Buff: reduce housing buildings construction costs by 10/20/30% (*) and increase their population capacity bonus by 16/32/50% (+)
 Unlock building: forager's hut (auto food gathering)
 Unlock building: logger's hut (auto wood gathering)
 Unlock building: stonepicker's hut (auto stone gathering)
+Unlock building: stockpile hut (increase storage size for most resources)
+Buff: reduce housing building construction costs by 20% per level (*) and increase their population capacity bonus by 10% per level (+), 3 levels
 Unlock action: Gather Herbs (tier 1 medicine), also gives a popup to explain the disease mechanic
 Unlock building: Healer's hut (picks herbs OR heals population)
+Buff: Slowly consumes herbs but increases global productivity by 10% (*)
+Buff: Slowly consumes more herbs but increases population growth by 20% (*)
 Unlock building: hunter's hut (auto food and more of it, auto furs)
-Unlock building: stockpile hut (increase storage size for most resources)
 Unlock building: researcher's hut (reduces research resource cost)
-Buff: foragers' huts produce 15% more food for 15% less work (all multiplicatively)
-Buff: stonepicker's huts take 20% more work produce stone 40% faster (all multiplicatively)
-Buff: logger's huts produce wood 20% faster (multiplicatively) and increase max wood storage by (flat X) each.
-Buff: stockpile huts are now 60% cheaper to build (multiplicatively)
-Buff: bonuses from researcher's huts are now 30% higher, but they now require 35% more work (all multiplicatively)
-Buff: hunter's huts now produce 2x as much fur and are now 30% cheaper to build (multiplicatively)
+Buff: food production buildings produce 5/10/15% more food for 5/10/15% less work (all multiplicatively)
+Buff: stone production buildings produce stone 10/20/30% faster and increase max stone storage by (flat X) each (all multiplicatively)
+Buff: wood production buildings take 5/10/15% more work produce wood 20/40/60% faster.
+Buff: stockpile buildings are now 15/30/45% cheaper to build (multiplicatively)
+Buff: bonuses from research improving buildings are now 15/30/45% higher, but they now require 20/40/60% more work (all multiplicatively)
+Buff: completing any research node grants 25% increase to production speed for 30 seconds with no proportional increases for negatives (multiplicatively)
+Buff: hunter's huts now produce 50%/100%/200% more fur (+) and are now 10%/20%/30% cheaper to build (multiplicatively)
 Unlock action: Rationing mode (halves food consumption when turned on and reduces birthrates multiplicatively by 3. However, activating it outside of a crisis will trigger one, making the population pretty unhappy), also gives a popup to explain discord mode
-Buff: The villagers have started to recover from their rocky start of our rule. Crisis fatigue recovers 50% faster multiplicatively.
+Buff: The villagers have started to recover from their rocky start of our rule. Crisis fatigue recovers 50/100/150% faster multiplicatively.
 Unlock building: Chieftain's cabin (player's home, unlocks energy, allowing you to allocate it to empower certain buildings' production)
 Buff: handpicking any resource adds 1 different resource to the stockpiles, sometimes including furs and herbs
 Unlock building: Villager's cabin (way more efficient housing)
