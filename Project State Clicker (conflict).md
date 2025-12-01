@@ -67,60 +67,66 @@ Will be accessible through pulling up the swipe left menu. The background would 
 
 
 
-
-
 Actual tech tree: (keep this line started at a decimal-1 number to calculate order better; buff nodes are visually smaller)
-Stone age: 
-Unlock building: living hut (base pop building), also gives a popup to explain the population/housing mechanic
-Buff: manually picking wood, food or stone produces 2/3/4 times of it multiplicatively (not per upgrade, the final tier is only 4x the base)
-Buff: manually picking any resource adds 2 of a different resource to the stockpiles, sometimes including furs and herbs if they're unlocked (previous upgrade must be at tier 3 to unlock)
-Unlock building: forager's hut (auto food gathering)
-Unlock building: logger's hut (auto wood gathering)
-Unlock building: stonepicker's hut (auto stone gathering)
-Unlock building: stockpile hut (increase storage size for most resources)
-Buff: reduce housing building construction costs by 20% per level (*) and increase their population capacity bonus by 10% per level (+), 3 levels
-Unlock action: Gather Herbs (tier 1 medicine), also gives a popup to explain the disease mechanic
-Unlock building: Healer's hut (picks herbs OR heals population)
-Buff: Slowly consumes herbs but increases global productivity by 10% (*)
-Buff: Slowly consumes more herbs but increases population growth by 20% (*)
-Unlock building: hunter's hut (auto food and more of it, auto furs)
-Unlock building: researcher's hut (reduces research resource cost)
-Buff: food production buildings produce 5/10/15% more food for 5/10/15% less work (all multiplicatively)
-Buff: stone production buildings produce stone 10/20/30% faster and increase max stone storage by (flat X) each (all multiplicatively)
-Buff: wood production buildings take 5/10/15% more work produce wood 20/40/60% faster.
-Buff: stockpile buildings are now 15/30/45% cheaper to build (multiplicatively)
-Buff: bonuses from research improving buildings are now 15/30/45% higher, but they now require 20/40/60% more work (all multiplicatively)
-Buff: completing any research node grants 25% increase to production speed for 30 seconds with no proportional increases for negatives (multiplicatively)
-Buff: hunter's huts now produce 50%/100%/200% more fur (+) and are now 10%/20%/30% cheaper to build (multiplicatively)
-Unlock action: Rationing mode (halves food consumption when turned on and reduces birthrates multiplicatively by 3. However, activating it outside of a crisis will trigger one, making the population pretty unhappy), also gives a popup to explain discord mode
-Buff: The villagers have started to recover from their rocky start of our rule. Crisis fatigue recovers 50/100/150% faster multiplicatively.
-Unlock building: Chieftain's cabin (player's home, unlocks energy, allowing you to allocate it to empower certain buildings' production)
-Buff: handpicking any resource adds 1 different resource to the stockpiles, sometimes including furs and herbs
-Unlock building: Villager's cabin (way more efficient housing)
-Unlock building: Hunter's cabin (auto food, auto furs, way faster and more efficient than huts)
+(Stage 1 start) Unlock building: living hut (base pop building), also gives a popup to explain the population/housing mechanic //Unlock living huts:  Let's teach them how to make rudimentary housing. Of course, we could teach them how to make proper, nature-resistent housing right away, but I think you'll agree it'd be more fun for them to discover that technology on their own. 
+Buff: manually picking wood, food or stone produces 2/3/4 times of it multiplicatively (not per upgrade, the final tier is only 4x the base) //Effective Gathering: There's potential to use some spare clothes to improvise a bag, amplifying gathering efficiency. 
+Buff: manually picking any resource adds a different resource to the stockpiles every second time (fix wording), sometimes including furs and herbs if they're unlocked (previous upgrade must be at tier 3 to unlock) //Multi-gathering: Sometimes looking for one resource can present an opportunity to grab something else without significantly hurting carrying capacity.
+Unlock building: forager's hut (auto food gathering) //Unlock forager's huts: There's no need to keep manually sourcing food for our villagers. It's not a complicated form of skilled labor, we can teach them how to source it themselves. 
+Unlock building: logger's hut (auto wood gathering) //Unlock logger's huts: While it's complicated without proper tools, we can still teach them to gather wood. It's far from impossible.
+Unlock building: stonepicker's hut (auto stone gathering) //Unlock living huts: Preparing workers would only need one lecture about the optimal sizes of rocks and where to find them. Nothing to break your own back over.
+Unlock building: stockpile hut (increase storage size for most resources) //Protecting the resource we've gathered from nature's elements is very important. Even if the protection is... shoddy.
+Buff: reduce housing building construction costs by 20% per level (*) and increase their population capacity bonus by 10% per level (+), 3 levels //Building Improvements: Someone suggested a way to make housing cheaper and with better capacity. Part of the reason why I thought it would be fun to start with antique huts. 
+Unlock action: Gather Herbs (tier 1 medicine), also gives a popup to explain the disease mechanic //Unlock gathering herbs: The sickness is draining the villagers of their resources. Thankfully, it seems there's the perfect kind of herbal medicine growing only a kilometer to the north.
+Unlock building: Healer's hut (picks herbs OR heals population) //Unlock healers' huts: Will allow the villagers to manage herb foraging and healing on their own. It's not always something a child could do, but it's not bioengineering either.
+Buff: Slowly consumes herbs but increases global productivity by 10%, can be toggled off (*) //Herbal self-medication: There's a lot of good you can do with these herbs alone even outside severe sickness. A lot of bad, too, so we better teach them the specifics if you want to allow them to use it for minor wounds. 
+Buff: Slowly consumes more herbs but increases population growth by 20% (*) //Herbal health: It seems the villagers have figured out how to apply the herbs for general health. Probably worth looking into.
+Unlock building: hunter's hut (auto food and more of it, auto furs) //Unlock hunters' huts: Hunting is way harder than foraging: berries aren't exactly known for running away from you. That said, some of the villagers know the basics already, so we have a headstart. 
+Unlock building: researcher's hut (reduces research resource cost) //Unlock researchers' huts: It's primitive and there are little ways to access information or education, but it would help speed things along.
+Buff: food production buildings produce 5/10/15% more food for 5/10/15% less work (all multiplicatively) //Effective Foraging: Some of the foragers have learnt a more efficient way to do their jobs. What if all of them did?
+Buff: stone production buildings produce stone 10/20/30% faster and increase max stone storage by (flat X) each (all multiplicatively) //Effective Stonepicking: A stonepicker has discovered a technique to carry huge rocks and smash them into smaller ones as needed. There's potential to optimize the shattering process and share that wisdom. 
+Buff: wood production buildings take 5/10/15% more work produce wood 20/40/60% faster. //Effective Logging: Seems like the process of logging wasn't so hard after all. The process is very physically demanding, though.
+Buff: stockpile buildings are now 15/30/45% cheaper to build (multiplicatively) //Effective Stockpiling: The stockpile buildings don't seem to need this much finesse or polish to do their function. 
+Buff: manually picking anything has a 10% chance to double/triple/quadruple the yield //Lucky Gathering: Sometimes gathering really goes in your favor.
+Buff: bonuses from research improving buildings are now 15/30/45% higher, but they now require 20/40/60% more work (all multiplicatively) //Sparkling Minds: The researchers are going all out on it. 
+Buff: completing any research node grants 25% increase to production and consumption of buildings for 30 seconds but does not affect the work cost (multiplicatively) //Progress Inspiration: Modifying our framing of our accomplishments would do a lot for the morale.
+Buff: hunter's huts now produce 50%/100%/200% more fur (+) and are now 10%/20%/30% cheaper to build (multiplicatively) // Effective Hunting: Taking less throwing spears to kill big animals and other ways to improve hunting efficiency could allow a much better gain of furs. They're very useful. 
+Unlock action: Rationing mode (halves food consumption when turned on and reduces birthrates multiplicatively by 3. However, activating it outside of a crisis will trigger one, making the population pretty unhappy), also gives a popup to explain discord mode // Unlock Rationing Mode: If something happens to our food, this will be very good at preserving whatever would be left of it. The villagers would hate it, though, and parenthood would become insurmountable.
+Buff: Crisis fatigue recovers 50/100/150% faster multiplicatively. //Crisis tolerance: The villagers have started to recover from the early days of the settlement. With time, they will be plenty well-equipped to handle a crisis.
+Unlock building: Chieftain's cabin (player's home, unlocks energy, allowing you to allocate it to empower certain buildings' production) //Unlock Chieftain's cabin: Your new, enormous home. The increased comfort would allow you to help the settlement in a new kind of way.
+Buff: manually picking wood, food or stone produces +50/100/150% of it (+) //Advanced Gathering: Reinvention of the wheel now allows you to haul a way greater haul homeward. 
+Buff: manually picking wood, food or stone 10 times within a small timeframe empowers production of a corresponding building type by 10% (*) for 15/30 seconds //Inspiring Gathering: A few villagers already feel more inspired by your direct assistance in resource gathering. That effect can be amplified.
+Unlock building: Villager's cabin (way more efficient housing) //Unlock Villagers' Cabin: We have rediscovered knowledge for building homes which don't crumble from strong wind. Making a template for villager housing first seems reasonable, we should instantly notice an improvement.
+Unlock building: Hunter's cabin (auto food, auto furs, way faster and more efficient than huts) //Unlock Hunter's Cabin:
 Unlock building: Farm (auto food in enormous amounts, possibly 4x forager hut's output)
 Unlock building: Logger's cabin (auto wood, way more efficient production)
+Buff: not empowering with energy, building or reallocating workers for a building type for 1/3/10 minutes improves its production by 5/10/15% (*) but does not affect the work cost or consumption 
+Unlock action: Overexertion (consumes all energy to buff all production and consumption with no work cost increase for 30 seconds by 2x the amount the buff at the softcap value (the growth of production/consumption buff depending on energy allocation would be linear before starting to decelerate at a certain point), but would disable any energy bonuses for 60 second afterwards. This has a 5 minute cooldown)
+Buff: Overexertion lasts a third longer (*) and its cooldown takes 80% as much time (*) by a to wear off
+Buff: Overexertion fatigue lasts 50% longer (*) and cooldown lasts 25% longer (*) but overexertion gives 3x the buff at the softcap value
+Buff: each unlocked tech tree node gives +0.25% (+) global production and consumption, capped at +30%
 Unlock building: Lecture cabin (way better research resource cost reduction, each cabin also empowers all production speed by 5% additively)
 Unlock building: Mine (way faster stone production)
-Unlock action: Dungeon crawling, diablo style itemization for candidates for exploration and their equipment, also unlocks dungeon Slimy mines (from enough stuff produced from the mines, also meeting the milestone requirement for this tanks output of mines by 30% until the dungeon is cleared;)
-(initially dungeon crawling only allows 2 party members and only a few classes but the mechanical foundation is already being set here. The dungeon is a literal straight line until halfway through it splits into two directions. Each direction leads to a miniboss, and each miniboss cell would have a one way path back to the crossroad. Killing any of the minibosses turns the other one into the dungeon boss)
-Unlock action: Crafting (weapons and armor, they're a lot tamer and harder to hit an item with rarities above normal but can be good to make up for underleveled gear)
+(Stage 2 start) Unlock action: Dungeon crawling, diablo style itemization for candidates for exploration and their equipment, also unlocks dungeon Slimy mines (from enough stuff produced from the mines, also meeting the milestone requirement for this tanks output of mines by 30% until the dungeon is cleared;)(initially dungeon crawling only allows 2 party members and only a few classes but the mechanical foundation is already being set here. The dungeon is a literal straight line until halfway through it splits into two directions. Each direction leads to a miniboss, and each miniboss cell would have a one way path back to the crossroad. Killing any of the minibosses turns the other one into the dungeon boss)
+ Unlock action: Crafting (weapons and armor, they're a lot tamer and harder to hit an item with rarities above normal but can be good to make up for underleveled gear)
 Unlock building: Altar (buffs explorers and increases happiness)
+Unlock action: can allow explorers to fully self-manage by picking choices randomly 
 Unlock action: when allowing explorers to fully self-manage you get options to make them prioritize loot, progress or map clarity
-Unlock action: explorers note down the cells they visited before, noting them on a map accessibleto the player
-Buff: explorers getting full healed increases their max hp by 10% for the duration of the run and now have this increase incremented by other buffs
-Buff: explorers have a base 10% chance to crit and now have this increase incremented by other buffs
-Unlock building: Builder's Guild (Reduces building costs  multiplicatively)
-
-
-Copper age:
+Unlock action: explorers note down the cells they visited before, noting them on a map accessible  to the player
+Buff: explorers getting full healed increases their max hp by 5/10/15% for the duration of the run and now have this increase incremented by other buffs
+Buff: 5/10/15% chance to deal critical damage, and buffs can now improve this chance or allow each crit to crit in square
+Unlock building: Builder's Guild (Reduces building costs multiplicatively, exceptions include itself and upgrades, maybe more)
 Unlock action: mirrored infinity (defeating the dungeon's boss punches a new path in a random wall which allows entrance to the mirrored infinity. it allows the explorers to explore an infinite mirror of the greater dungeon which increases in difficulty linearly and in rewards in square as the party progresses further)
-Buff: Mirrored infinity loot scales in cube instead of square
+Buff: 15/30/50% (*) more likely to encounter a treasure cell in Mirrored Infinity
+Buff: Mirrored infinity loot scales in cube instea d of square
+Unlock dungeon: Tolkien-Derivative Caverns (all enemies are tolkien derivatives like goblins, orcs and ents slightly lazily renamed to golbins, orkers and trents, there's also a lazy eye of sauron rename as a miniboss and just the roaring knight. his dungeon in particular is shaped like 4 layers of wheels with each layer being connected to the adjasent layers with the entrance being located at random, it would require killing any of the 2 eyes of sauron located randomly at on the outer layer to unlock the boss in the middle, killing the boss unlocks gold as a resource, at around this point in the game relics are discovered and introduced though you can't really sell them yet) 
+Buff: you can now have 3 party members (locked behind killing an eye of sauron derivative)
 Buff: 15% chance to not consume any medicine when the party is defeated, and this increase is incremented by other buffs
+Buff: 10% chance to negate all received damage onto the enemy dealing it, and this increase is incremented by other buffs
+Buff: 5% chance to reflect all received damage onto the enemy dealing it, and this increase is incremented by other buffs
 Unlock building: Smelting Pit (consumes wood and copper ore to smelt copper bars)
-
-this dungeon in particular is shaped like a wheel with the entrance being on the side, it would require killing 2 slime minibosses to breach the middle and unlock
 Unlock building: fisherman's house (auto food and occasional treasure)
+
+
 
 Steel age:
 

@@ -8,12 +8,16 @@ A deep dive into chaotic minions with higher pitched voice explaining why they'r
 
 A trojan horse game which teaches the users math
 
+Gravastars as dead stars with a shell made out of infinidecimal thick ultra dense matter but filled with an ultra vacuum and the purest form of energy known
+
 (starbloods) undercover operation but everyone is undercover
 
 The fiction in fiction merging with the fiction real life and characters struggling to accept it
 
 Vierergrouppe
 Einheit
+
+"Nothing happened on Tannenbaum Square on 4.8.2089, stop asking us that. In other news, celebrity Jane Borisovkaya has made an unprecedented move to discard her old teapot and buy a new one as she didn't like the color. Isn't that crazy?" 
 
 Historical events as names for weapons (Century of Humiliation) 
 

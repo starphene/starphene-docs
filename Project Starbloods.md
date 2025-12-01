@@ -2,6 +2,13 @@ Tab
 
 Project Starbloods
 
+Timeline:
+Early 2030's: extremely advanced gen AI swoops society, polluting the internet and letting democratic backsliding accelerate as a result. By this point, trump has plenary authority over US, and starmerite policy becomes standard, and Putin's russia is overthrown by an internal "democratic" coup. 
+Mid 2042: israel and iran completely annihilate eachother in nuclear fire (to simplify).    
+2050's: AGI boom happens (2048). Russia has been trying to get its hands on Europe for a while now with some success, but technological superiority lets them steamroll over their enemies. Russia is also renamed to Omnislavia (2050), and by the time the progress stops, they conquer pretty much the entire eastern and southern europe (minus turkey). Slightly before this point, EU is reorganized into European Federation (2046). Democratic backsliding at this point made functioning democracies nonexistent.  
+2058: The Summer of Suffering happens where a billionaire creates an autonomous robot hive mind to cleanse North America of all human life. It works as planned and the entire NA becomes home to the Iron Fist, a nation exclusively populated by robots of various degree of sentience, with all human survivors fleeing to Eurasia. A global coalition to take back the continent is annihilated within minutes due to Iron Fist intel gathering being unreasonably good. Fear of AI slows down technological advancement to a more reasonable level. 
+2070s: The Iron Fist force a treaty on humanity prohibiting development and use of nuclear weapons globally with severe consequences for violation after an artificial virus of plague inc tier strength (Corflaids) goes out of controlbut gets defeated  
+2090's: present day of the books
 
 The future russia is has been experimenting with human cloning and manufacturing secretly for a while, and after success, they create several prototype children with superpowers, with the main kid having telekinesis. He is grown in a lab environment and is provided with a mom and a dad who are secretly dead people resurrected as robots, and a class of other manufactured humans to provide him with a healthy social environment. Story starts with the main character being 7 years old, with him having ability to detect nearby people (not his parents).
 
@@ -57,11 +64,7 @@ Dust starblood (who keeps repeating the word dust)
 
 Greenflame starblood from the main lab
 
-Cold wind starblood
-
-Hot wind starblood
-
-Wind starblood
+Ricky, the Storm of Death, Steam/fog/wind starblood
 
 Radiation starblood? 
 
@@ -11956,7 +11959,17 @@ Victoria paused, beginning to assemble a huge greatshield from ice. "How did you
 "This is so much better. In the lab we had to avoid killing and just beat people to pain shock, but now, look at them all and their giant pools of blood! They all had families, parents, ambitions, traits, and we just destroyed them all in a single minute." - Bezdon pointed at Lumina's victims with his right arm. "Look at how Lumina's lightsaber fried these two guys as it cut through them! You could never get anything this cool in the lab." - he kept pointing out, drowning in joy.
 "Eh, don't get your obsession with corpses, but I have to admit..." - Vici was interrupted. 
 "Would you come on already!? We're not finished yet!" - Lumina finally snapped at the two. 
-Meanwhile in the captain's chamber, a teenage girl in a light coat was tied up to a chair. She looked unbothered by her position, and did not try to break free. *give her visual traits matching sofia's* Two fighters stood near the yacht controls. P
+Meanwhile in the captain's chamber, a teenage girl in a light coat was tied up to a chair. She looked unbothered by her position, and did not try to break free. *give her visual traits matching sofia's* Two fighters stood near the yacht controls with tense body expressions. Both had their faces obscured by full camo helmets.
+"Hello? 27, what's the situation with the hostages?" - the one wearing an Order of Suvorov on his chest said with a walkie talkie in his hand. If you're wondering how he obtained one, don't think about it. Thinking is bad for you. 
+"Command, this is 27. There were two soldiers trying to recapture the hostages. We ambushed them, one of them is dead, the other has joined the hostages. We're all clear." - the voice answered in a masculine voice. 
+"Roger that. Hold your position." - the commander said, turning off the walkie talkie. "So that confirms it. One of the three cleaving through the ship is a freed hostage. We might have lost our only leverage. Any thoughts for the best way for us to surrender? Doesn’t look like there's any way we'll be returning from this." - he commented, facing the other fighter. In case you didn't get what just happened, the voice on the other side was a spiderbot impersonating a now dead protestor. The voice wasn't wrong, but the evidence it presented obviously contradicted reality. 
+"Alright, that's far enough." - the other fighter with an Order of Lenin on his chest drew his sidearm and shot the commander in the heart 4 times even before he finished the line. He then ripped the Order of Suvorov from his former boss's chest and put it on his own.
+"Holy shit! You iced him while he was looking right at you. This is crazy, I'm gonna tell all my friends about this once this is over." - the teenage girl commented with an amused grin on her face, unbothered both by 140 decibels of gunfire and the fact that she just witnessed an internal coup happen in front of her.
+The new commander finished putting the corpse sitting against a wall and aimed his assault rifle at the girl. "One word to the crew about this and it will be your last."
+She shrugged. "Hey, don't worry. I don't have a horse in this race. I just wanna see how this ends. Speaking of, how do you plan on reaching Britain without any hostages to use for blackmailing the military into inaction?"
+"You're plenty enough." - the man commander put the rifle behind his back.
+"Okay. And what if three superhero dwarves as you called them reach us here?"
+"They won't. There's only three of them, and they're- hmm." - the fighter nearly spoiled the following. 
 
 
 
