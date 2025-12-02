@@ -11985,7 +11985,8 @@ Bezdon used the opportunity to peek out with his gun and try to kill the android
 "If I die, tell the gang I died happily." - Victoria said before sprinting through the doorway while holding up two thick ice greatshields. The android attempted to shoot at the bottom to hit her legs, but failed to penetrate it, allowing her to get close to the robot, sandwich it between the ice shields and shapeshift the ice into a proper ice shell, rendering the android functionally inact. She considered melting the inside of the ice shell to fry the android's circuits with water, but felt like the military would have appreciated a recaptured android in mint condition. The android tried to say something, but only distorted noises of wildly varying pitch and volume were audible. Victoria beckoned Bezdon to come in, who in turn gestured Lumina to follow him. 
 "Fight you can't win my ass. Adults are way too careful, this is easy." - he commented, giving his arms a little adrenalized shake.
 "It's still androids. Can't say much with this guy still alive and listening, but they're AGI's. The next one will expect this as our move." - Victoria rounded up the android's ice shell to take the most obviously excessive parts of it back, avoiding taking too much to prevent the android from suddenly breaking free and killing all 3 operatives, and constructed thick front-only leg armor from the salvaged ice. She couldn't say it outloud, but her ice supply was two thirds to depletion, and another ice sandwich trick like that would have left her with barely enough to defend herself against humans. She also tried to find a large water bottle or sink nearby to refill her ice reserves, but all she could find was wine and vodka. It still helped refill the supply by ~5%.
-
+*another android encounter where vici straps lumi's lightsaber to her shield to cleave through androids*
+*the scene where the big bad guy is confronted but vici dips*
 
 
 
