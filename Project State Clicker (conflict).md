@@ -162,6 +162,20 @@ Story: The player is an immortal vampire. They have an enigmatic, obedient counc
 Dungeon crawling
 Similar model to magic research, has resources which are originally exclusively obtained from there but later gain a way to produce them with a building. Dungeons also often pose an active threat and occasionally generate negative random events before they’re cleared out and cease posing a threat. There are several possible classes with specific synergies between one another. Each class has separate skills, strengths, weaknesses, and equipment needed. I’ll try to make manual combat interesting through some fun, redoable puzzle the player would have to solve. Equipment has deep itemization and is gathered through finding it or crafting it.
 The dungeon crawling system which would be designed around a procedually generated grid of cells, with latter dungeons having more complex shapes and mechanics. Each cell would give the player a fight, a shop using a dungeon-only currency, a full heal, a loot chest and possibly a few other possible effects. After clearing out a cell the player be forced into a choice where to go after most of the battles, and the game will automatically map what the player has explored. The entire sent out party dying will send all collected items and keep all the progress on changing or exploring cells but will deduct a maintenance cost from the resources before the party is allowed to continue. Each dungeon has a specific way to reach the boss, and killing the boss would give the player an additional extra reward and possibly unlock the next dungeon in the list. The combat itself would probably be entirely strategy and equipment based with little player input on the fight outcome after that. There would also be an option to delegate all the decision making to the party which would explore the dungeon autonomously based on the player-set priorities of progress or loot. 
+Several classes to pick (i am thinking to scale it from 3 starting ones to 6-8 in the late game before the system is gradually replaced with a different one) from any allocation of which could be allowed for the party except for when the same class is used more than 2 times. The player would have zero control over the tactical side and the combat itself would be entirely handled by reasonably but not expensively advanced AI's (something robust enough handle angry birds epic unlike the autoplay in that game, i am thinking to make it track the level of tactical harm by each individual enemy and note it down so they can choose which targets to prioritize, plus be able to hold off using an ultra skill until a party member of the best benefit would be available to use it), but they would be able to make a decision for the party where to go when there is a fork in the dungeon aswell as control the party's classes (any person could technically choose any class but applicability would vary depending on each explorer's aptitudes all of which would be BL style deep itemized), skill choices and equipment (which would be BL style deep itemized). With progression, the player would get a choice to change each of the main/secondary/ultra skill to one of the options which unlock with progression, with growth being both in width and height (so the player can make a strategic choice to use a different skill for an applicable slot to deal with a different kind of obstacle).
+
+Classes (each has a pick for primary, secondary, passive and ultra): 
+Commander (primary skill to do melee damage in one or two attacks, secondary skill to buff all allies)
+Cleric (primary skill to heal and possibly buff, secondary skill to curse enemies)
+Bulwark (primary skill to hit and taunt an enemy, secondary skill to protect allies)
+Marksman (primary skill to do high damage charged attacks, secondary skill to taunt or use visibility buffs to manipulate chances of enemies targeting a specific party member) (unlocked in bronze age)
+Rogue (primary skill to hit enemies with DOT, secondary skill to buff a single target) (unlocked in steel age)
+Sorcerer (primary skill to do high AOE damage, secondary skill to penetrate enemy defenses) (unlocked in magic age)
+Druid (primary skill to heal, secondary skill to cleanse buffs or debuffs) (unlocked in silver age)
+
+gets extra benefits from max health increases, max health after heal, defense, buff duration length
+gets extra benefits from healing strength, buff duration length, debuff duration length and something else
+
 Cell types:
 Enemy (gray) 
 Shop (blue) 
@@ -169,7 +183,7 @@ Full heal (green)
 Loot (yellow, turns into enemy cell after you take the loot) 
 Gray with red outline (switch required to unlock boss guarded by an enemy) 
 Red (boss) 
-Purple (door to mirroring infinity, a place where the party can explore an infinite procedually generated subdungeon for loot, though the amount of loot and shop cells is considerably smaller there, and there's a reasonably rare chance to find a ) 
+Purple (door to mirroring infinity, a place where the party can explore an infinite procedually generated subdungeon for loot, though the amount of loot and shop cells is considerably smaller there but it increases in square as you progress and progressing far enough can give you a relic)
 
 
 
