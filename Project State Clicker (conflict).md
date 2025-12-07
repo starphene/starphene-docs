@@ -164,6 +164,7 @@ Similar model to magic research, has resources which are originally exclusively 
 The dungeon crawling system which would be designed around a procedually generated grid of cells, with latter dungeons having more complex shapes and mechanics. Each cell would give the player a fight, a shop using a dungeon-only currency, a full heal, a loot chest and possibly a few other possible effects. After clearing out a cell the player be forced into a choice where to go after most of the battles, and the game will automatically map what the player has explored. The entire sent out party dying will send all collected items and keep all the progress on changing or exploring cells but will deduct a maintenance cost from the resources before the party is allowed to continue. Each dungeon has a specific way to reach the boss, and killing the boss would give the player an additional extra reward and possibly unlock the next dungeon in the list. The combat itself would probably be entirely strategy and equipment based with little player input on the fight outcome after that. There would also be an option to delegate all the decision making to the party which would explore the dungeon autonomously based on the player-set priorities of progress or loot. 
 Several classes to pick (i am thinking to scale it from 3 starting ones to 6-8 in the late game before the system is gradually replaced with a different one) from any allocation of which could be allowed for the party except for when the same class is used more than 2 times. The player would have zero control over the tactical side and the combat itself would be entirely handled by reasonably but not expensively advanced AI's (something robust enough handle angry birds epic unlike the autoplay in that game, i am thinking to make it track the level of tactical harm by each individual enemy and note it down so they can choose which targets to prioritize, plus be able to hold off using an ultra skill until a party member of the best benefit would be available to use it), but they would be able to make a decision for the party where to go when there is a fork in the dungeon aswell as control the party's classes (any person could technically choose any class but applicability would vary depending on each explorer's aptitudes all of which would be BL style deep itemized), skill choices and equipment (which would be BL style deep itemized). With progression, the player would get a choice to change each of the main/secondary/ultra skill to one of the options which unlock with progression, with growth being both in width and height (so the player can make a strategic choice to use a different skill for an applicable slot to deal with a different kind of obstacle).
 
+
 Classes (each has a pick for primary, secondary, passive and ultra): 
 Commander (primary skill to do melee damage in one or two attacks, secondary skill to buff all allies)
 Cleric (primary skill to heal and possibly buff, secondary skill to curse enemies)
@@ -185,10 +186,132 @@ Gray with red outline (switch required to unlock boss guarded by an enemy)
 Red (boss) 
 Purple (door to mirroring infinity, a place where the party can explore an infinite procedually generated subdungeon for loot, though the amount of loot and shop cells is considerably smaller there but it increases in square as you progress and progressing far enough can give you a relic)
 
-
-
-
 Public servants (have rarity tiers, give different bonuses depending on the exact type. Have their own happiness which tanks their bonuses which is affected by the salary and access to premium commodities. However, they get used to having these mood boosts which moves the bar for them upwards (but the distance between standards and actual satisfaction requirement still slowly increases so the player doesn't feel as cheated by upgrading their accommodations), and if the level of accomodation drops below their bar the productivity tanks and they need 3 times as long to lower the bar than they need to rise it. Might also make the growth pattern toward target bar distance hyperbolic (or x^-0.5) so waiting always brings benefits) Dungeon crawling (need employees and gear for them, used to clear out threats to the city when they appear and regular dungeons which can be explored for resources, loot, etc etc. Employees, their gear, and enemies have difficulty tiers. Might make a cool minigame for manual combat) Artists (convert specific groups of resources into art pieces which can be sold or treasured depending on the quality) Trade routes (ability to make planned exchanges of overproduced shit for underproduced shit, but being unable to make a preordained purchase damages trust and temporarily reduces the amount of shit you can order in advance. Population + average happiness affects) Rarity (every resident has a rarity category in each of the possible skillsets which goes from gray (weak) - white (common) - green (uncommon) - teal (lucky) - blue (rare) - yellow (extraordinary ) - orange (unique) - red (legendary) - purple (mythical) - rainbow (supreme). All residents have a random age where their skills plummet due to old age and another one where they die, with yhe player being able to upgrade life expectancy. As population grows, access to higher rarities becomes more available, but occasionally it's possible to get a rarity 2 tiers above normal. Residents of tiers way below progression norm are not displayed to save performance. The rng allocation is specifically built so a lot of amazing residents have several aptitudes where they're amazing to force the player into difficult choices. It's possible to buy high-tier residents if you get lucky and if you give them enough of an entry bonus, but they're also way more sensitive to bad treatment and can even leave. Gear also has the same rarities) Tech tree (requires specific buildings and workers for it and handles lots of unlocks, is gated by progress in other areas)
+
+Deep itemization: would apply to public servants, explorers and their equipment. Power level will be invisible to the player unless the player unlocks a secret permanent upgrade
+
+Stealth: Would have a base value of 100% and a minimum value of 25% present for both allies and enemies. For enemy AI and ally stealth it will rearrange the percentage chance of hitting any individual ally with adding a weight chance system where a weight for each potential target will be determined by taking 1 over their stealth value, with some enemies or allies having a passive/skill which completely negates stealth and targets allies truly randomly. For ally AI and enemy stealth it would take an algorithmically chosen target of an ally and give the attack a relatively small chance to get redirected onto someone else with chance proportions also depending on the target's stealth (i am thinking weights would be 1 for the target and positive percentage difference between the target's allies' stealth and target's stealth, with any target's allies with less or equal to the target's stealth being excluded from the possible pool of redirection). The player would have buffs and passives to increase their own stealth, lower a target's stealth or negate a target's stealth.
+
+Effects galore:
+Damage on hit
+Multi-hit damage on hit (don't tie bonuses to per hit values unless clear exceptions)
+Damage on hit that decreases/increases with rage/health/enemy health/status effects on enemy/status effects on attacker/ally count
+Damage over time on hit
+Damage on hit, jumps onto the next enemy, dealing less damage each time
+Damage on hit, extra enemy gets hit aswell
+Heal ally on hit
+Extra rage on hit (make sure to cap)
+Reduce defense on hit
+Reduce attack on hit
+Extra damage on following hits (stack limit if possible)
+Extra damage to all target's allies on hit (probably no)
+Chance to stun on hit (caps or resistance)
+Chance to dispel positive effects on hit
+Chance to dispel all effects on hit (careful with that)
+Target has a chance to miss on hit 
+Ally gets extra rage/heals on hit 
+Ally buffs attack/defense on hit (caps)
+Drop money on hit
+Drop item on hit
+The ally with the highest stealth gets way less stealth (+ probably)
+Target healing is decreased/nullified
+Drain hp over time on hit
+Drain rage on hit
+Summon duplicate of enemy with x% health as an ally (CDs and limits to prevent being op)
+Self destruct + damage (only for enemies and disposable allies)
+Delay charged attack by 1 turn with an X chance (make chances reduce with more iterations) (or  make it give a 1 turn cooldown instead) 
+Nothing happens 
+Copy all (positive?) status effects from ally (no stacks)
+Copy all negative status effects from an ally but heal them for each status effect taken
+Make target immune to positive effects
+Target can't dispel effects
+Ignores X% damage resistance (low values)
+Steals any received healing by the target onto an ally with the lowest health
+Immune to ally abilities but can still target itself. 
+Enemy can only attack
+Enemy can only use abilities (if they have any) 
+Target has a chance to target a wrong enemy/ally 
+Starts a timer. After it's over, something else happens. (only 1 timer at a time)
+Target deals X damage to all allies every turn. 
+Change skill based on health/rage
+Steal positive effects
+
+Heal ally
+Heal ally over time
+Add rage
+Damage ally
+Increase defense 
+Give shield that blocks all damage until dealt X damage or Y turns pass
+Increase attack
+Increase critical chance
+Increase chain attack chance
+Increase dispel effect on hit chance
+Cure negative effects
+Cure all effects
+Ally deals extra damage per hit
+Ally gets a chance to stun on hit
+Ally gets extra rage on hit
+Ally gets extra rage when hit
+Ally gets a chance to dodge on hit
+Ally gets maximum damage
+Damage under X to ally deals half the damage
+Attacker of ally gets a chance to get stunned on hit
+Attacker of ally gets percent damage on hit
+Attacker of ally gets flat damage on hit
+Immune to negative status effects
+Ally reflects back any negative status effects
+Ally attacks twice on attack
+Ally counterattacks on hit with X% attack power
+Force enemies to attack ally
+Force allies to target enemy
+Ally and caster share X% healing
+All allies heal on hit
+Caster attacks when ally attacks
+Ally immediately attacks
+Ally immediately attacks and applies status effect to all enemies
+Ally heal strength gets increased
+Summon duplicate of ally with x% health
+Summon clone of self with x% health
+Summon random ally
+Summon random ally from a pool 
+Consume an ally/all allies of a type for a buff on self
+Ally self destructs on hit
+Ally takes damage instead of caster
+Caster takes damage instead of ally
+When targeted by an enemy, caster will take the hit on the ally with an X chance
+Ally heals X% of all damage dealt to the enemies 
+Ally heals on hit
+Nothing happens
+Give ally smart ai
+Ally cannot be targeted by enemies
+Tears of denial
+Reveal following what are the enemies going to do next turn
+Target gets extra turn
+On kill, something happens
+
+magical concealment - immunity to debuffs
+lifeforce - increases received healing by X
+remorse - damage dealt by this slime is not recoverable
+soul link - takes 50% damage dealt to any ally
+disturbing presence - you receive X damage every turn while this slime is alive
+inspiring - all slimes deal X% more damage while this slime is alive
+tricky tricks - positive effects from this slime are not purgeable
+weak point - deals 50% more damage to enemies which are below 50% life
+fading away - loses 5% of maximum life every turn
+flourishing - increases damage by 5% every turn
+splitting - splits into 2 copies upon death, which are 50% weaker than the original
+second chance - revives after death once with 50% life
+gas trap - enemies attacking this slime will receive a poison that deals X damage per turn for the next 2 turns
+fragile - dies of any damage taken
+concussion - cannot act for 1 turn after attacking
+cold blood - cannot receive more than 1 debuff at a time
+vampiric - heals by 50% of dealt damage
+feckless - dies when no allies are left
+avenge me! - when defeated, all slimes attack random targets with 50% of their attack power
+reasonable crashout - attack a random enemy if an ally is killed
+plaque - when defeated, spreads all the owned debuffs on all enemies
+
+Balancing notes: miss/dodge chance skills are completely fine exclusively due to the fact that player only has agency over equipment
 
 
 
