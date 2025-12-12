@@ -313,6 +313,25 @@ plaque - when defeated, spreads all the owned debuffs on all enemies
 
 Balancing notes: miss/dodge chance skills are completely fine exclusively due to the fact that player only has agency over equipment
 
+Defense scaling: exponentially dependent on the ratio between the damage of an incoming attack and defense (so actual remaining damage in practice RD% is multiplied by 0<k<1 every 0.5 gain to the ratio, so 0,0.5, 1 go like 100%,60%,36%,21.6%)
+
+Base effects:
++Defense
++Attack 
++Loot
+
+Unlockable effects:
+Full heal cells augment max health (*)
+Chance to crit
+Chance for crits to crit
+Chance to encounter a treasure cell in mirrored infinity (*)
+Chance to not consume any medicine when the party is defeated
+Chance to negate all received damage onto the enemy dealing it
+Chance to reflect all received damage onto the enemy dealing it (only if the damage is negated?)
+Chance to absorb all/part of received damage from the enemy dealing it (only if the damage is negated?)
+
+
+
 
 
 Stages of sentient life congregations:
