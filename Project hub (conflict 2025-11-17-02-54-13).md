@@ -141,15 +141,18 @@ Ranged weapons would have a few customizable components
 
 Soda projects:
 
-Lemonlime sweetener syrup: 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~12.5ml goes per liter of the final product 
+Lemonlime sweetener syrup: 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~15ml goes per liter of the final product 
 
-Lemonlime non sweetener syrup: 7 citric acid, 1 malic, 2 sodium citrate, 1 sodium benzoate, 2 lemon extract powder, 2-2.5 lime extract. All this per 300ml of which ~20ml goes into the final product (currently, nerf the density next time) 
+Lemonlime non sweetener syrup: 7 citric acid, 1 malic, 2 sodium citrate, 1 sodium benzoate, 2 lemon extract powder, 1.5-2 lime extract. All this per 300ml of which ~17.5ml goes into the final product (currently, nerf the density next time) 
 
 Strawberry-peach sweetener syrup: 1/2/6 per 1000ml, 20ml per final product liter
 
 Strawberry peach non sweetener syrup: 8 citric, 4 malic, 2.5 citrate, 0.5 benzoate, 12ml of liquid peach and strawberry extract into 300ml, 15ml per final product liter
 
-Artificial lemon juice: 4tsp citric, 2tsp extract, 1tsp sugar (per 200ml)
+Raspberry gooseberry non sweetener syrup: 6 citric, 6 malic, 2 citrate, 0.5 benzoate, 6ml gooseberry, 12ml raspberry into 400ml, 20ml per final product per liter. Reuse strawberry peach sweetener for this
+
+
+Artificial lemon juice: 4tsp citric, 2tsp extract, 1tsp sugar (per 200ml) (this is awful, don't do this) 
 
 Part time jobs options:
 
