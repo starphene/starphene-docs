@@ -18,6 +18,8 @@ Vierergrouppe
 Einheit
 
 "Nothing happened on Tannenbaum Square on 4.8.2089, stop asking us that. In other news, celebrity Jane Borisovkaya has made an unprecedented move to discard her old teapot and buy a new one as she didn't like the color. Isn't that crazy?" 
+"Donating your body to the government triples your chances of going to heaven", pastor says. 
+"...and donating your living self ensures you shall never receive anything below God's personal entourage." - he also added as we tugged on the corners of his lips to force a smile. 
 
 Historical events as names for weapons (Century of Humiliation) 
 
