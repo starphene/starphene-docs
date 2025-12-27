@@ -20,10 +20,6 @@ Einheit
 "Nothing happened on Tannenbaum Square on 4.8.2089, stop asking us that. In other news, celebrity Jane Borisovkaya has made an unprecedented move to discard her old teapot and buy a new one as she didn't like the color. Isn't that crazy?" 
 "Donating your body to the government triples your chances of going to heaven", pastor says. 
 "...and donating your living self ensures you shall never receive anything below God's personal entourage." - he also added as we tugged on the corners of his lips to force a smile. 
-"Oroborovsk Mass Shooter used to wake up at 10 and drink tea before going to work." 
-"He also watched historical documentaries, went for midnight walks due to insomnia and loved animals." 
-"Someone help us, please. I hate this place so much." (vici saying it, implied) 
-"Donating to charity is raw communism. Donating to the military is the essence of basedness."
 
 Historical events as names for weapons (Century of Humiliation) 
 
@@ -32,18 +28,6 @@ Davy crocker gun
 Gun with square bullets for muslims
 
 A group of world destroyers fighting world conquerors and world #1 chasers
-
-" i know this defies the laws of gravity but i never studied law" 
-
-A bull with horns that shoot bullets
-
-Accountability psychosis
-
-An exaggerated anime version of america
-
-Magic noah adventure game? 
-
-Flat earther antarctica expedition
 
 A ring that burns the wearer
 
