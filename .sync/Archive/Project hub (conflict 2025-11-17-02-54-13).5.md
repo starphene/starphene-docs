@@ -8,21 +8,6 @@ A plane which approaches a target to diveshoot, shart shooting, and then just in
 
 Kids being lynched for refusing to pledge allegiance to the american flag
 
-Ass, dick, pussy, puke, cum, piss, shit, dandruff, earwax, snot, pus, sweat
-Starfish/Ass
-Eggplant/Dick
-Hole/Pussy
-Waste/Puke 
-Seed/Cum
-Solution/Piss
-Feces/Shit
-Scale/Dandruff
-Resin/Earwax
-Gel/Snot (people who absorb others' shittiness too eagerly and become shitty themselves) 
-Ichor/Pus (people who bottle up their frustrations so badly that it rots them on the inside) 
-Vapor/Sweat (people who just absolutely suck to be around not due to converting their frustrations into attacks on others but simply because they have a gross personality) 
-
-
 "Shovel for number" as the worst pickup line ever
 
 Corporate flanserization of animal farm (or other serious novels like blood meridian)
@@ -135,10 +120,6 @@ Visual inspiration: https://youtu.be/QA5veJAoWZo
 Project hub
 
 Game where artists which represent different angles fight together against slop and later ai slop
-
-Yume nikki x octopath traveler metaphor for storytelling
-
-Surreal game with shit like great mighty poo
 
 **Realistic sleep deprivation game** 
 **\

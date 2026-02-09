@@ -41,7 +41,7 @@ Give the player a tutorial which assigns them a difficulty based on their perfor
 The solar system planets as minibosses:
 Pre-game story of how Entropy killed a random noble and accidentally orphaned a whole bunch of small children. There would be 8 of them, one for each planet in the solar system, with each of them lacking an organ, limb, sense or ability, namely both arms, both legs, both eyes, the tongue, hearing, empathy, emotion, inability to be free from stress, and a sense of self. Partly out of awkwardness, partly as an impulsive desire, partly because their bloodline was of a cursed lineage like herself's which resulted in brighteye ascention always resulting in a singular result, she would go on to spend years raising them into being warriors. However, due to failing to address their internal tensions, they would all end up killing eachother before reaching adulthood. In desperation, Entropy would discover being able to fuse a golem and a humanoid corpse to create a revenant with the identical personality to that of the corpse, but the problem with these corpses is that as technically golems, they lacked free will and instead of being themselves, they would do what entropy asked. And so she gave them all an order to run wild and live their undeath however they could, attempt to kill Entropy and any of her people and ignore all further instructions from herself, and so they're encountered throughout the lands doing exactly what was ordered. 
 Mercury (fastest, closest to sun, largest temperature swing, weakest gravity, largest core to mantle ratio, most impact scarred, thought to be formed by a gas giant being stripped of outer layer) (no legs, uses a wheelchair, always focuses on what is in practice both arms and legs, yells "speed" a lot, very emotionally volatile in life, died by being skinned alive)
-Venus/Brimstone (hottest, highest pressure, thickest atmosphere, slowest rotation, most circular orbit) (fire caster, always focuses on mind, lacks both eyes and sees with echolocation powered by small magical explosions she does with her fingers, died by sacrificing herself through literally burning self out to defeat a major enemy)
+Venus (hottest, highest pressure, thickest atmosphere, slowest rotation, most circular orbit) (fire caster, always focuses on mind, lacks both eyes and sees with echolocation powered by small magical explosions, died by sacrificing herself through literally burning self out to defeat a major enemy)
 Earth (thought to be formed through a collision of proto earth and theia, only planet known to support life, strongest magnetic field, highest density) (actually survived till the events of the main game, lacks ability to be free from stress)
 Mars (largest volcano, used to support life but doesn't anymore, most explored planet, supercold red planetwide desert) (lacks empathy, always focuses on arms, wields twin spears and a plumed helmet, loved war in life, died by physical weapon combat)
 Jupiter (largest, most massive, most moons, largest storm system) (lacks both arms and attacks with leg blades, always focuses on legs which are actually just arms, died by burning alive)
@@ -1170,23 +1170,4 @@ B: (She makes me feel so stupid…) \*still smiles\*
 Nice eyepatch. 
 
 Nice eyepatch yourself. 
-
-2026 draft of story structure: 
-On top of everything, the big gimmick is that party members hate eachother generally. But not always. 
-Arry Blue: maniacal lady. Used to have a bantery relationship with Arry Red, but after fusing they start hating eachother 
-Arry Red: kind dude. Real protagonist. Has to play tug of war with arry blue over control over arry purple
-Arry Purple: 
-Jerry: 
-Quron Beta: 
-Barry: bipolar. In a manic episode in the first half of the game, depressive the second. Still destined to die in the endgame. 
-Entropy: same as always. Viciously burns Barry before the depressive phase, then actually starts getting along with him. 
-Darry: same as always
-Jerry fusion: 
-Quron:
-Striggs:
-
-Prologue: Arries, Jerry and Quron Beta are clearing out a castle ruled by a supposedly evil void shade. Arries proceed forward to the boss room while Jerry and Quron Beta stay behind to handle the hordes of reinforcenents, serving as a tutorial for the player. The void shade is actually Envoy of Serenity posing as one, and regardless of whenever the player wins or not, the Envoy releases a sedating miasma which puts the Arries into sleep. This is all a ruse by the Envoy and Striggs to capture the team, and they do it successfully. Later, it's revealed that the Envoy performs a proceds to merge the Arries together into one, Jerry with a helium spirit, and Quron Beta with a void shade for experimentation, all while the humans are sedated, but the undead aren't. The captured void shade teases the Envoy how it's gonna kill him the moment it is free, and when the fusion successfully proceeds, Quron breaks free, fights the Envoy and chases him away. He then proceeds to manipulate Jerry into doing his bidding (of killing other void shades and brighteyes so quron can feed on them and gain more power), but eventually Jerry finds him out, and so he prepares Arry as a plan B. 
-
-Mountain chapter: a carriage takes Arry to a bandit camp, and in there they meet up with Barry. He sees how something is seriously wrong with Arry and agrees to get them help. They meet the bandit chief and a revenant Child of Entropy, and while Barry squares off against the bandit chief, Arry goes against the golem. Barry kills the chief very early, while Arry struggles solo, but after Barry joins in, their combined strength becomes more than enough to defeat. 
-
 

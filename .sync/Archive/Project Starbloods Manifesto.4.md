@@ -3,8 +3,6 @@ Project Starbloods Manifesto
 Mechanics:
 Top down 2d combat
 "mmmhmm" type voicelines which change depending on the emotion
-Journal where every character is listed with what Ricky knows about them which gradually gets ruined and eventually disappears
-Two routes based on whenever ricky hoards money or doesn't 
 
 4 temperaments:
 Choleric: angry, determined, confrontational, assertive
@@ -12,13 +10,13 @@ Sanguine: happy, impulsive, expressive, social
 Phlegmatic: calm, stable, patient, controlled 
 Melancholic: self-critical, sensitive, sad 
 
-Metaphorical themes used: air raid siren or visual red noise to signal anxiety (bass boosted plus with artifacts for higher intensity, represented as a red hexagon), muted audio and ear ringing to signal shock (represented as a black pentagon), dissociation represented as undertale geno style music (represented as gray triangle), emptiness represented as wind sounds, stress represented as a heartbeat and bass notes in the ost, pixelation to signal derealization (more strength means more derealization). 
+Metaphorical themes used: air raid siren to signal anxiety (bass boosted plus with artifacts for higher intensity, represented as a red hexagon), muted audio to signal shock (represented as a black pentagon), dissociation represented as undertale geno style music (represented as gray triangle) 
 
 The main cast:
 Ricky: Sanguine-choleric, very affectionate and external, but also very susceptible to anxiety. Used to be a fist user before leaving the lab and still is one. 
-Ricky post transformation: becomes overwhelmed with pain from social failure, which leads him to cling onto his siblings, and when they're gone, dissociates from caring completely and becomes an impatient and apathetic killing machine, while anxiety still keeps being preserved. Sib 1: Melancholic-choleric, the one friend Ricky actually has a bit of an uneven relationship with. Used to be a sword user back in the lab. 
-Sib 2: melancholic-phlegmatic. The quiet, gloomy one of the group, who at the same time isn't immune to the brotherly spirit of the group. Was not huge into combat back in the lab and isn't at the time of the start of the story. 
-Sib 3: The only girl and the only black person in the group who also serves as an emotional backbone and a guardian angel of the group but also occasionally likes to make others uncomfortable with edgy jokes about ironic racism or adjacent stuff. Used to be a whip user back in the lab. 
+Ricky post transformation: becomes overwhelmed with pain from social failure, which leads him to cling onto his siblings, and when they're gone, dissociates from caring completely and becomes an impatient and apathetic killing machine, while anxiety still keeps being preserved. Sib 1: Melancholic-choleric, the one friend Ricky actually has a bit of an uneven relationship with. 
+Sib 2: melancholic-phlegmatic. The quiet, gloomy one of the group, who at the same time isn't immune to the brotherly spirit of the group  
+Sib 3: The only girl and the only black person in the group who also serves as an emotional backbone and a guardian angel of the group but also occasionally likes to make others uncomfortable with edgy jokes about ironic racism or adjacent stuff 
 
 
 Add a prison break plotline

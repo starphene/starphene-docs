@@ -1173,20 +1173,7 @@ Nice eyepatch yourself.
 
 2026 draft of story structure: 
 On top of everything, the big gimmick is that party members hate eachother generally. But not always. 
-Arry Blue: maniacal lady. Used to have a bantery relationship with Arry Red, but after fusing they start hating eachother 
-Arry Red: kind dude. Real protagonist. Has to play tug of war with arry blue over control over arry purple
-Arry Purple: 
-Jerry: 
-Quron Beta: 
-Barry: bipolar. In a manic episode in the first half of the game, depressive the second. Still destined to die in the endgame. 
-Entropy: same as always. Viciously burns Barry before the depressive phase, then actually starts getting along with him. 
-Darry: same as always
-Jerry fusion: 
-Quron:
-Striggs:
-
-Prologue: Arries, Jerry and Quron Beta are clearing out a castle ruled by a supposedly evil void shade. Arries proceed forward to the boss room while Jerry and Quron Beta stay behind to handle the hordes of reinforcenents, serving as a tutorial for the player. The void shade is actually Envoy of Serenity posing as one, and regardless of whenever the player wins or not, the Envoy releases a sedating miasma which puts the Arries into sleep. This is all a ruse by the Envoy and Striggs to capture the team, and they do it successfully. Later, it's revealed that the Envoy performs a proceds to merge the Arries together into one, Jerry with a helium spirit, and Quron Beta with a void shade for experimentation, all while the humans are sedated, but the undead aren't. The captured void shade teases the Envoy how it's gonna kill him the moment it is free, and when the fusion successfully proceeds, Quron breaks free, fights the Envoy and chases him away. He then proceeds to manipulate Jerry into doing his bidding (of killing other void shades and brighteyes so quron can feed on them and gain more power), but eventually Jerry finds him out, and so he prepares Arry as a plan B. 
-
-Mountain chapter: a carriage takes Arry to a bandit camp, and in there they meet up with Barry. He sees how something is seriously wrong with Arry and agrees to get them help. They meet the bandit chief and a revenant Child of Entropy, and while Barry squares off against the bandit chief, Arry goes against the golem. Barry kills the chief very early, while Arry struggles solo, but after Barry joins in, their combined strength becomes more than enough to defeat. 
+Arry Blue: maniacal lady. Used to have a bantery relationship with Arry Red, but after fusing
+Arry Red: kind dude. Real protagonist. 
 
 

@@ -3,8 +3,6 @@ Project Starbloods Manifesto
 Mechanics:
 Top down 2d combat
 "mmmhmm" type voicelines which change depending on the emotion
-Journal where every character is listed with what Ricky knows about them which gradually gets ruined and eventually disappears
-Two routes based on whenever ricky hoards money or doesn't 
 
 4 temperaments:
 Choleric: angry, determined, confrontational, assertive
@@ -12,7 +10,7 @@ Sanguine: happy, impulsive, expressive, social
 Phlegmatic: calm, stable, patient, controlled 
 Melancholic: self-critical, sensitive, sad 
 
-Metaphorical themes used: air raid siren or visual red noise to signal anxiety (bass boosted plus with artifacts for higher intensity, represented as a red hexagon), muted audio and ear ringing to signal shock (represented as a black pentagon), dissociation represented as undertale geno style music (represented as gray triangle), emptiness represented as wind sounds, stress represented as a heartbeat and bass notes in the ost, pixelation to signal derealization (more strength means more derealization). 
+Metaphorical themes used: air raid siren to signal anxiety (bass boosted plus with artifacts for higher intensity, represented as a red hexagon), muted audio to signal shock (represented as a black pentagon), dissociation represented as undertale geno style music (represented as gray triangle), emptiness represented as wind sounds, 
 
 The main cast:
 Ricky: Sanguine-choleric, very affectionate and external, but also very susceptible to anxiety. Used to be a fist user before leaving the lab and still is one. 

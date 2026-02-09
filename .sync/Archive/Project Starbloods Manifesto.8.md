@@ -3,8 +3,6 @@ Project Starbloods Manifesto
 Mechanics:
 Top down 2d combat
 "mmmhmm" type voicelines which change depending on the emotion
-Journal where every character is listed with what Ricky knows about them which gradually gets ruined and eventually disappears
-Two routes based on whenever ricky hoards money or doesn't 
 
 4 temperaments:
 Choleric: angry, determined, confrontational, assertive

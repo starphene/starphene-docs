@@ -14,13 +14,13 @@ Eggplant/Dick
 Hole/Pussy
 Waste/Puke 
 Seed/Cum
-Solution/Piss
+Aurum/Piss
 Feces/Shit
-Scale/Dandruff
-Resin/Earwax
-Gel/Snot (people who absorb others' shittiness too eagerly and become shitty themselves) 
-Ichor/Pus (people who bottle up their frustrations so badly that it rots them on the inside) 
-Vapor/Sweat (people who just absolutely suck to be around not due to converting their frustrations into attacks on others but simply because they have a gross personality) 
+Powder/Dandruff
+Earth/Earwax
+P/Snot
+Pest/Pus
+Fungus/Sweat
 
 
 "Shovel for number" as the worst pickup line ever

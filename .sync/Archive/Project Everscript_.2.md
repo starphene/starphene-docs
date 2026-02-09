@@ -39,29 +39,7 @@ Something like caves or pvz fusion abyss to let players sink hours into
 Give the player a tutorial which assigns them a difficulty based on their performance against the tutorial boss among 7 choices and allows them an option to pick one above or below the evaluated difficulty. reevaluating performance and allowing to switch difficulty after every major boss 
 
 The solar system planets as minibosses:
-Pre-game story of how Entropy killed a random noble and accidentally orphaned a whole bunch of small children. There would be 8 of them, one for each planet in the solar system, with each of them lacking an organ, limb, sense or ability, namely both arms, both legs, both eyes, the tongue, hearing, empathy, emotion, inability to be free from stress, and a sense of self. Partly out of awkwardness, partly as an impulsive desire, partly because their bloodline was of a cursed lineage like herself's which resulted in brighteye ascention always resulting in a singular result, she would go on to spend years raising them into being warriors. However, due to failing to address their internal tensions, they would all end up killing eachother before reaching adulthood. In desperation, Entropy would discover being able to fuse a golem and a humanoid corpse to create a revenant with the identical personality to that of the corpse, but the problem with these corpses is that as technically golems, they lacked free will and instead of being themselves, they would do what entropy asked. And so she gave them all an order to run wild and live their undeath however they could, attempt to kill Entropy and any of her people and ignore all further instructions from herself, and so they're encountered throughout the lands doing exactly what was ordered. 
-Mercury (fastest, closest to sun, largest temperature swing, weakest gravity, largest core to mantle ratio, most impact scarred, thought to be formed by a gas giant being stripped of outer layer) (no legs, uses a wheelchair, always focuses on what is in practice both arms and legs, yells "speed" a lot, very emotionally volatile in life, died by being skinned alive)
-Venus/Brimstone (hottest, highest pressure, thickest atmosphere, slowest rotation, most circular orbit) (fire caster, always focuses on mind, lacks both eyes and sees with echolocation powered by small magical explosions she does with her fingers, died by sacrificing herself through literally burning self out to defeat a major enemy)
-Earth (thought to be formed through a collision of proto earth and theia, only planet known to support life, strongest magnetic field, highest density) (actually survived till the events of the main game, lacks ability to be free from stress)
-Mars (largest volcano, used to support life but doesn't anymore, most explored planet, supercold red planetwide desert) (lacks empathy, always focuses on arms, wields twin spears and a plumed helmet, loved war in life, died by physical weapon combat)
-Jupiter (largest, most massive, most moons, largest storm system) (lacks both arms and attacks with leg blades, always focuses on legs which are actually just arms, died by burning alive)
-Saturn (giant ring system, lowest density, also a huge storm) (used cirques/chakrams/whatever in combat as weapons, lacks hearing, died by burning alive)
-Uranus (thought to be formed through a collision with a planet, biggest axial tilt, coldest planet, most uniform atmosphere, ice giant) (lacks sense of self, died by freezing)
-Neptune (fastest winds, lowest felt temperature, ice giant) (wind user, lacks emotion, died by freezing)
-Planet 9 (the legendary planet which may or may not exist) (actually survived, lacks the tongue)
-Pluto (the dwarf planet thought to be planet 9) (made a deal with a servant kid to swap places, pretended to lack the tongue, died through accidentally being starved to death in prison after he was discovered)
-Kuiper belt and Asteroid belt (failed planets, a lot of meteors fly from the latter) (godwyn the golden arc, not mentioned in everscript main)
-
-
-Focus system. Every party member has an individual base focus they start combat with. Switching or enhancing focus mid combat costs a turn and is completely free. 
-Eyes: crit chance up (enemy) OR easier to land a crit (player), ignores some of enemy dodge chance, drains mana every turn. Tier 3 makes crits deal 2x damage instead of +50%. 
-Arms: physical attack up, physical and magic defense down. Tier 3 makes attacks ignore physical defense.
-Legs: dodge chance up, crit resistance up, cannot use items. Tier 3 accelerates battle box speed, unstackable and only 1 party member is needed to activate the buff. 
-Heart: physical defense up, magical defense up but less so, crit resistance, passively regenerate hp. Taking lethal damage while on tier 3 leaves you at 1 hp and brings back your focus tier to level 1.
-Lungs: magical defense up, physical defense up but less so, crit resistance, passively regenerate mana as long as you aren't using a skill. Tier 3 allows you to absorb mana from attacks you graze and equally spread excess between party members, more party members with tier 3 increase graze radius and gains with reduced effectiveness per each new party member.
-Mind: magic attack up, skills consume hp proportional to mana consumed. Tier 3 allows you to use hp as mana if you don't have enough mana to cast a skill, which empowers magic damage multiplicatively by +25%. 
-
-Deltarune c3/gta 5 style rewards for beating battles in a certain way, including hitless, speed and special enemy specific achievements, plus secret items for reaching different thresholds
+Pre-game story of how Entropy killed a random noble and accidentally orphaned a whole bunch of small children. There would be 8 of them, one for each planet in the solar system, with each of them lacking an organ, limb, sense or ability, namely both arms, both legs, both eyes, the tongue, hearing, empathy, emotion, and a sense of self. Partly out of awkwardness, partly as an impulsive desire, partly because their bloodline was of a cursed lineage like herself's which resulted in brighteye ascention always resulting in a singular result, she would go on to spend years raising them into being warriors. However, due to failing to address their internal tensions, they would all end up killing eachother before reaching adulthood. In desperation, Entropy would discover being able to fuse a golem and a humanoid corpse to create a revenant with the identical personality to that of the corpse, but the problem with these corpses is that as technically golems, they lacked free will and instead of being themselves, they would do what entropy asked. And so she gave them all an order to run wild and live their undeath however they could, attempt to kill Entropy and any of her people and ignore all further instructions from herself, and so they're encountered throughout the lands doing exactly what was ordered. 
 
 For sequel:
 
@@ -77,11 +55,6 @@ Entropy reshaping her goals to become a guardian angel who protects the plain ma
 
 One of the main villains is a giant ball amalgamation of heliumic beings who is stuck in circular logic loops, has the power to change reality to make what is false true, and sometimes corrupts players teleports forcing absurdist looney tunes shit to start happening and sometimes sends shapeshifting images of entropy's past experiences to fight her. She also used to be entropy's abusive mother
 
-You get to meet entropy's grandpa. 
-1) The grandpa's pa lost both children to suicide and couldn't do anything to stop it from happening. Grandpa was grown with safety and control as an absolute, making him yearn for CONTROL and RISK. 
-2) Entropy's mom was grown in a big authoritarian family, forcing her to grow manipulative and cruel to be the favorite child, making her grow up to be DISHONEST and SELFISH. 
-3) Entropy was grown with abusive, unrealistic expectations in a similarly large family, with offenses against authority being blown out of proportion and offenses against everyone else punished with a slap on the wrist, developing an ANARCHIC and AIMLESS identity. 
-4) Entropy nurtured a large group of children to be grown as powerful soldiers, of which only one survived due to her wilful neglect intended to make them like herself. The one that saw it all happen and made out with her life instead became DISSOCIATED and APATHETIC. 
 
 There's a presequel where
 
@@ -405,12 +378,6 @@ B: An entire town full of brighteyes fused into an enormous amalgamation
 
 B: final boss
 
-Plan J2026
-
-
-
-
-
 <a name="_dvo5hvxmkkso"></a>Tab 2
 
 Striggs's origin:
@@ -457,13 +424,13 @@ Starling: We weren't given a choice to say said oath. We were unlucky enough to 
 
 Drone 10: This is unacceptable! One wrong move, and I'll talk about this to Migranda. Everyone who agrees with him are traitors. I warn you- \*a random ass orange brighteye lady picks up a bow and shoots him in the skull\*
 
-The lady: There. I just put us all past the point of no return. \*walks up to the dead body and spits on it\*
+The lady: And I warn you, that a mouse that supports the cat queen is a stupid mouse! \*walks up to the dead body and spits on it\*
 
-Past Striggs: No turning back now. Let's see what this "freedom" thing feels like!
+Past Striggs: No turning back now. Let's do this!
 
 Brighteye 2: What have you done… \*everyone looks happy, some less so than others, a few don't care\*
 
-Starling: What any self-respecting brighteye should have done in her place. From this point on, we are no longer drones for the piece of garbage Queen or indebted to serve her for the rest of our lives. We leave and make a new life for ourselves! \*some cheer, others remain too dissociated to care\* We are no longer Drone 20 or Drone 6. We return to our own names we're given at birth! \*raises fist\* Actually, no, we get to choose the names we get from now on. You have until dawn to choose your own names before we all note them down and move the hell out of this cursed land! \*raises fist again, cheering reignites\* I have already made up my mind. My new name is now Starling, as we are now free, like the stars in the sky, who answer to no despot! *note: make less cheering, it doesn't make sense*
+Starling: What any self-respecting brighteye should have done in her place. From this point on, we are no longer drones for the piece of garbage Queen or indebted to serve her for the rest of our lives. We leave and make a new life for ourselves! \*some cheer, others remain too dissociated to care\* We are no longer Drone 20 or Drone 6. We return to our own names we're given at birth! \*raises fist\* Actually, no, we get to choose the names we get from now on. You have until dawn to choose your own names before we all note them down and move the hell out of this cursed land! \*raises fist again, cheering reignites\* I have already made up my mind. My new name is now Starling, as we are now free, like the stars in the sky, who answer to no despot!
 
 \*title card with Starling, the one full of mirth\*
 
@@ -485,13 +452,13 @@ Starling: It was, advisor. And even if it wasn't, we have to keep pushing, keep 
 
 Striggs: You know, I asked the Shrikes currently in camp what they thought about our discussion. 7 would be fine to rob others without bloodshed, 4 would be fine even with bloodshed, 3 would never agree under any circumstances. Come on, Stars. 
 
-Starling: So what if everyone was in the first two groups? The answer is no either way. The moment we descend into banditry, we lose our moral high ground and become hunted even harder. I know it doesn't look like it, but there is a way out which doesn't involve robbery. We just need to find it. 
+Starling: So what if everyone was in the first two groups? The answer is no either way. The moment we descend into banditry we lose our moral high ground and become hunted even harder. I know it doesn't look like it, but there is a way out which doesn't involve robbery. We just need to find it. 
 
 Striggs: But… Okay. I trust you, Stars. 
 
-The shitty doctor Shrike: The odds are clearly stacked against us. Everyone hates us already and we're constantly welcomed with open swords for the horrific crime of not bootlicking a tyrant. I don't know how we would make it out… Aren't you a little scared, sir? 
+The shitty doctor Shrike: The odds are clearly stacked against us. Everyone hates us already and we're constantly welcomed with open swords for the horrific crime of not enabling a tyrant. I don't know how we would make it out… Aren't you a little scared, sir? 
 
-Starling: \*sigh\* You don't survive out here by being afraid. Even if there are reasons to be so. And I am not a sir. Only an F-class brighteye.
+Starling: \*sigh\* It's my entire profession to pretend I am not. And I am not a sir. Only an F-class brighteye.
 
 They tried many ways to settle down. Guilds, laborers, servants: eventually, it all failed. At some point, they developed a scheme to, to oversimplify, peacefully infiltrate the guard of a small coastal town of Let Me Name My Town Whatever I Want For Gods Sake, or Godsake for short as everyone actually called it. Luckily for them, there were no records kept about who was real and who was not. 
 
@@ -519,7 +486,7 @@ Entropy: DIE! DIE! BURN IN HELL! I HATE YOU! STOP CALLING ME A BASTARD, I AM ALS
 
 \*Striggs and Stars pause to observe what's happening\*
 
-Striggs: This is bad, she is cleaving through them. 
+Striggs: This is bad, she is unfathomably strong for a pirate. 
 
 Starling: Yeah… 
 
@@ -527,7 +494,7 @@ Starling: Yeah…
 
 Guard: Stars! Stars! We're here. Should we engage? 
 
-Entropy: YOU! THE CHOICE BETWEEN FIGHT OR FLIGHT IS ALWAYS FIGHT! FACE ME, YOU COWARDS! YOU CAN NEVER RUN AWAY! 
+Entropy: YOU! DECIDING WHENEVER TO FIGHT OR FLIGHT? FACE ME, YOU COWARDS! YOU CAN NEVER RUN AWAY! 
 
 Starling: Worth the risk! If we win, their trust in us shall be forever assured. Show us what you got, pirate! 
 
@@ -573,7 +540,7 @@ Captain: Ah, you can skip the gratuitous words. I'll take your gratitude in the 
 
 \*later, when the duo enter the basement with entropy again\*
 
-Starling: I just can't… The way they worship the royalty… I feel like we shall always remain as the black sheep of society. 
+Starling: I just can't… The way they worship the royals… I feel like we shall always remain as the black sheep of society. 
 
 Striggs: We wouldn't be the only ones. 
 
@@ -665,17 +632,17 @@ Striggs: We deserted from a kingdom northeast from here as a large group and fle
 
 Starling: What… What are you guys here for? Top category brighteyes tired of following orders on a rampage? 
 
-Entropy: Close enough. Come to me, I'll show you something. 
+Entropy: Almost correct. Come to me, I'll show you something. 
 
 \*Starling approaches entropy\* Starling: Yea? 
 
 Evan: What do you think you're trying to do, you idiot!? 
 
-Entropy: Actually, yea, maybe we should close the trapdoor above so nobody can hear us. We're exchanging sensitive knowledge here. 
+Entropy: Actually, yea, maybe we should close the trapdoor above so nobody can hear us. We're exchanging sensitive information here. 
 
 Striggs: I know a more secure location for this. We can talk there. 
 
-Starling: \*tilts head\* Striggs, it's meant to be a secret! Unless you mean… 
+Starling: \*tilts head\* Striggs, it's meant to be a sensitive location! Unless you mean… 
 
 Striggs: No, not that one. The one which we… 
 
@@ -699,7 +666,7 @@ Starling: Simmer down, everyone. \*makes a hand gesture to deescalate situation\
 
 Entropy: I'll take that as a compliment. \*everyone sheathes their weapons\* This is the place, correct? 
 
-Striggs: Yes. We can speak freely here. Talen, you can keep drinking your… presumably burglared wine. God damn it, people, how much do I have to remind you that stealing puts us all in danger? 
+Striggs: Yes. We can speak freely here. Talen, you can keep drinking your… presumably burglared wine. God damn it, people, how much do I have to remind you that this kinda shit puts us all in danger? 
 
 Entropy: Look, just tell us your full story from the beginning, and we'll properly introduce ourselves. 
 
@@ -749,7 +716,7 @@ Striggs: \*shakes head\*
 
 Entropy: Pathetic. What kind of a Loincloth Central have we arrived at… 
 
-Evan: The mundane kind where the weak rule over the strong. 
+Evan: The mundane kind that nurtures snobs and oppresses the righteous. 
 
 Entropy: Apparently so. 
 
@@ -1170,23 +1137,4 @@ B: (She makes me feel so stupid…) \*still smiles\*
 Nice eyepatch. 
 
 Nice eyepatch yourself. 
-
-2026 draft of story structure: 
-On top of everything, the big gimmick is that party members hate eachother generally. But not always. 
-Arry Blue: maniacal lady. Used to have a bantery relationship with Arry Red, but after fusing they start hating eachother 
-Arry Red: kind dude. Real protagonist. Has to play tug of war with arry blue over control over arry purple
-Arry Purple: 
-Jerry: 
-Quron Beta: 
-Barry: bipolar. In a manic episode in the first half of the game, depressive the second. Still destined to die in the endgame. 
-Entropy: same as always. Viciously burns Barry before the depressive phase, then actually starts getting along with him. 
-Darry: same as always
-Jerry fusion: 
-Quron:
-Striggs:
-
-Prologue: Arries, Jerry and Quron Beta are clearing out a castle ruled by a supposedly evil void shade. Arries proceed forward to the boss room while Jerry and Quron Beta stay behind to handle the hordes of reinforcenents, serving as a tutorial for the player. The void shade is actually Envoy of Serenity posing as one, and regardless of whenever the player wins or not, the Envoy releases a sedating miasma which puts the Arries into sleep. This is all a ruse by the Envoy and Striggs to capture the team, and they do it successfully. Later, it's revealed that the Envoy performs a proceds to merge the Arries together into one, Jerry with a helium spirit, and Quron Beta with a void shade for experimentation, all while the humans are sedated, but the undead aren't. The captured void shade teases the Envoy how it's gonna kill him the moment it is free, and when the fusion successfully proceeds, Quron breaks free, fights the Envoy and chases him away. He then proceeds to manipulate Jerry into doing his bidding (of killing other void shades and brighteyes so quron can feed on them and gain more power), but eventually Jerry finds him out, and so he prepares Arry as a plan B. 
-
-Mountain chapter: a carriage takes Arry to a bandit camp, and in there they meet up with Barry. He sees how something is seriously wrong with Arry and agrees to get them help. They meet the bandit chief and a revenant Child of Entropy, and while Barry squares off against the bandit chief, Arry goes against the golem. Barry kills the chief very early, while Arry struggles solo, but after Barry joins in, their combined strength becomes more than enough to defeat. 
-
 
