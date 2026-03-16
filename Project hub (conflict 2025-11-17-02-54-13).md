@@ -31,7 +31,6 @@ Distorted faces as fashion
 
 "satan will be seeing you early"
 
-
 A deep dive into chaotic minions with higher pitched voice explaining why they're the way they are through dark storytelling 
 
 A trojan horse game which teaches the users math
@@ -57,6 +56,8 @@ An ad line about a high percentage of civilians experiencing SA and police focus
 Depressing christmas where everyone was pissed at eachother
 
 Historical events as names for weapons (Century of Humiliation) 
+
+"your goals are beyond your understanding" 
 
 Davy crocker gun
 
@@ -131,6 +132,7 @@ Post-consent as ideology
 Modification of human brain structure, like starting to confuse different people more easily 
 
 Visual inspiration: https://youtu.be/QA5veJAoWZo 
+Graycuber vids
 
 Project hub
 
@@ -150,7 +152,11 @@ The protagonist is forced into the body of a character in a different story and 
 
 A game where you are a worm who eats planets
 
+Bullet box battle gd/mario maker game
+
 A game where you are a flying bee which deconstructs tribalism
+
+Ddlc x mgr cross. MC is Raiden, Sayori is Armstrong, Monica is Sundowner, Yuri is Monsoon and Natsuki is Sam. 
 
 **Game where you explore different racist and generally bad stories and fight writers, pushy executives, censorship, racism, etc**
 
@@ -206,11 +212,11 @@ Ranged weapons would have a few customizable components
 
 Soda projects:
 
-Lemonlime sweetener syrup: 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~15ml goes per liter of the final product 
+Lemonlime sweetener syrup (type 1): 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~15ml goes per liter of the final product 
 
 Lemonlime non sweetener syrup: 7tsp citric acid, 1tsp malic, 2tsp sodium citrate, 1tsp sodium benzoate, 2tsp lemon extract powder, 1.5-2tsp lime extract. All this per 300ml of which ~17.5ml goes into the final product (currently, nerf the density next time) 
 
-Strawberry-peach sweetener syrup: 1/2/6tsp ace k/saccharin/cyclamate per 1000ml, 20ml used per final product liter
+Strawberry-peach sweetener syrup (type 2): 1/2/6tsp ace k/saccharin/cyclamate per 1000ml, 20ml used per final product liter
 
 Strawberry peach non sweetener syrup: 8tsp citric, 4tsp malic, 2.5tsp citrate, 0.5tsp benzoate, 12ml of liquid peach and strawberry extract, all into 300ml of water, 15ml used per final product liter
 
@@ -446,4 +452,12 @@ Mental load type inflicted:Analytical + social fatigue
 
 Overall: 10/10 great but might take time to ramp up
 
+Sekiro meets geni and they start having casual sex. Geni gives birth to sword saint isshin. 
+
+Sekiro entered a beautiful field after a secret passage, the one where he lost his arm a few weeks back. It was full of weird white flowers that he still did not know the name of, taking a mental note to ask Emma about it later. There was no reason to worry about Kuro, who was safe in the Ashina Castle. Though the Wolf's nose was still full of smoke and other weird smells, he could feel the gentle smell of these flowers. According to the Sculptor, a field of white blossoms symbolized finality. An ultimate confrontation. And yet, Sekiro was only here for peace and quiet, to get some rest from going through his checklist of minibosses to kill to get all beads and memories in Ashina.
+"The Divine Heir. We meet again." - a familiar voice greeted Sekiro from the distance. The same voice of mild disdain from the top of the Ashina Castle.
+Sekiro has managed to instantly identify who greeted him, and he was instantly subsumed by terror. He didn't even see Genichiro in the distance, and the white blossoms did comfort him slightly in this stressful moment, but the same thoughts from the Ashina Castle came back to his head and started screaming, just like the giant headless ape he defeated earlier. All he could think about is how perfect Genichiro's body was at the top of the castle. How his nipples felt so much more beautiful and enchanting than anything in the world. How unlike his father's burly torso, Genichiro's muscles struck a perfect balance of size to look soulcrushingly stunning. How he could see the scars Sekiro has inflicted on him in their previous battle, barely managing to push back against his terror and survive. How he hadn't a single clue why would Genichiro undress himself during a battle with him. Was it important for whatever was the Lightning of Tomoe? Was it an intimidation tactic used to assert mental superiority? Was it-
+"And so the noble shinobi came to me, sword in hand, and freeze at the sight of me." - Sekiro didn't notice how Genichiro approached him during his anxiety attack, smiling and holding his hand on the sheath of his blade. Or maybe Sekiro did notice him, but couldn't do anything about it, consumed by the sight of Genichiro's body, and how the scars from his previous battle with Sekiro and presumably the sinister effects of the Rejuvenating Waters improved upon the absolute, pristine perfection of Genichiro's appearance. It was hard to say which was it in the moment, or in retrospect: though he had more than ample time to process what was happening, he was not ready for what just occurred. 
+The Wolf stared at the prince of Ashina. He tried to open his mouth and say something, but only a muted, awkward grunt came out. "Is this the limit of the Divine Heir's strength?" - Genichiro thrusted his body forward in a weird way, then stretched out his arms sideways, flexing them. 
+"Stop it." - Sekiro finally managed to muster, using all his willpower to not succumb to the beauty of Isshin's grandson. He started thinking what to say next. He could say something about how Genichiro had very strong, beautifully rough arms which have certainly seen a lot of use, judging how powerful his blows were in their earlier battle and how his skin felt wrong in just the right way. He never noticed until now the string of his bow added extra character to Genichiro's body, or how he never gave his feet a proper look until now. So many thoughts were racing through Sekiro's head at the time, and what he went with was, "I have never seen anyone... With such a beautiful right nipple". Sekiro meant his right nipple, the one with a small scar going through it. He remembred the scar being way larger, completely tearing the beautiful, succulent little organ in half and seeing blood come out of it, but now the scar has gotten so much smaller, and the nipple became rough, but still magnificent. 
 
