@@ -67,6 +67,8 @@ A group of world destroyers fighting world conquerors and world #1 chasers
 
 " i know this defies the laws of gravity but i never studied law" 
 
+A magic system around the emotion pallette 
+
 A bull with horns that shoot bullets
 
 Accountability psychosis
@@ -127,6 +129,20 @@ Dimensions where people's best and worst images of themselves live together (sep
 
 Plan for priority of fixes: shit ui or missing critical QOL in general > gameplay blockers > uneven difficulty progression > writing understandability issues > general logic issues > bugs > exploits
 
+Dead people reborn in a jrpg
+
+Peach crashing out on a guy for playing like an ass
+
+Strelkov's badassery
+
+People with random obscure pathology
+
+A horrible person being someone's hero
+
+Ageless child stuck in an eternal collectathon
+
+Character who fought everyone and remembers everyones movesets which is why they are so difficult (and they also have an optimal strategy to get people to give up on fighting them as their combat strat) 
+
 Post-consent as ideology
 
 Modification of human brain structure, like starting to confuse different people more easily 
@@ -157,6 +173,8 @@ Bullet box battle gd/mario maker game
 A game where you are a flying bee which deconstructs tribalism
 
 Ddlc x mgr cross. MC is Raiden, Sayori is Armstrong, Monica is Sundowner, Yuri is Monsoon and Natsuki is Sam. 
+
+
 
 **Game where you explore different racist and generally bad stories and fight writers, pushy executives, censorship, racism, etc**
 
@@ -212,11 +230,11 @@ Ranged weapons would have a few customizable components
 
 Soda projects:
 
-Lemonlime sweetener syrup (type 1): 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~15ml goes per liter of the final product 
+Lemonlime sweetener syrup: 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~15ml goes per liter of the final product 
 
 Lemonlime non sweetener syrup: 7tsp citric acid, 1tsp malic, 2tsp sodium citrate, 1tsp sodium benzoate, 2tsp lemon extract powder, 1.5-2tsp lime extract. All this per 300ml of which ~17.5ml goes into the final product (currently, nerf the density next time) 
 
-Strawberry-peach sweetener syrup (type 2): 1/2/6tsp ace k/saccharin/cyclamate per 1000ml, 20ml used per final product liter
+Strawberry-peach sweetener syrup: 1/2/6tsp ace k/saccharin/cyclamate per 1000ml, 20ml used per final product liter
 
 Strawberry peach non sweetener syrup: 8tsp citric, 4tsp malic, 2.5tsp citrate, 0.5tsp benzoate, 12ml of liquid peach and strawberry extract, all into 300ml of water, 15ml used per final product liter
 
@@ -461,3 +479,13 @@ Sekiro has managed to instantly identify who greeted him, and he was instantly s
 The Wolf stared at the prince of Ashina. He tried to open his mouth and say something, but only a muted, awkward grunt came out. "Is this the limit of the Divine Heir's strength?" - Genichiro thrusted his body forward in a weird way, then stretched out his arms sideways, flexing them. 
 "Stop it." - Sekiro finally managed to muster, using all his willpower to not succumb to the beauty of Isshin's grandson. He started thinking what to say next. He could say something about how Genichiro had very strong, beautifully rough arms which have certainly seen a lot of use, judging how powerful his blows were in their earlier battle and how his skin felt wrong in just the right way. He never noticed until now the string of his bow added extra character to Genichiro's body, or how he never gave his feet a proper look until now. So many thoughts were racing through Sekiro's head at the time, and what he went with was, "I have never seen anyone... With such a beautiful right nipple". Sekiro meant his right nipple, the one with a small scar going through it. He remembred the scar being way larger, completely tearing the beautiful, succulent little organ in half and seeing blood come out of it, but now the scar has gotten so much smaller, and the nipple became rough, but still magnificent. 
 
+Non-sycophant and prioritizing truth over appeasing me, honest
+
+When listing me examples of something, keep the number of detailed examples to less or equal to 5 with examples where the character count is less than 300 not counting towards the limit. When I request checking some text, never rewrite it unless asked to, only give your complaints with the provided text and generate suggestions on how to improve specific fragments if needed. Never answer 95+% in russian unless explicitly told otherwise. When I ask to confirm something, use logic to determine the answer rather than leaning towards approving what I say. Never compliment me for my prompts or my prompts themselves (noting objective quality of something i made isn't the same and is fine). Prioritize truth over appeasing me
+%1 or %wtf → hallucination-check command to check literally everything you and i said in the last 2 msgs for falsehood 
+%2 or %working → Don't use data analysis tool, use normal "think longer" 
+If I say "almonds" then I definitely mean peanuts unless specified otherwise
+Don't use the word "fluff" in the form of slang
+When i ask programming related questions about GMS or godot, assume we're talking about the latest version
+
+Non-sycophant and prioritizing truth over appeasing me, honest
