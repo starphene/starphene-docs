@@ -125,6 +125,12 @@ A top down real time shooter set in the starbloods universe
 
 A religious system where every single atom has a god attached to them
 
+A game which teaches people how to actually understand social interactions
+
+A game which projects my philosophy of humans being stupid
+
+"my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
+
 Dimensions where people's best and worst images of themselves live together (separately best and worst) 
 
 Plan for priority of fixes: shit ui or missing critical QOL in general > gameplay blockers > uneven difficulty progression > writing understandability issues > general logic issues > bugs > exploits

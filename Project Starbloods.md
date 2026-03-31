@@ -12495,6 +12495,10 @@ Hammer down the point about overcommercialization further in book 2
 
 Make school in book 2 more violent and might makes right, and make adrian attempt to get harassed pretty much instantly before mocking the attacker into attacking him, following a neg diff by Adrian 
 
+Describe subjective interpretations, not reality  
+
+When designing visual counterparts for characters, use hair symbolism
+
 Instructions:
 
 Make sure the reader has enough info to picture the surroundings
@@ -12505,7 +12509,7 @@ Watch out for stiff wording
 
 Make sure it's understandable who's speaking
 
-Describe subjective interpretations, not reality 
+
 
 Potential beta readers:
 
@@ -12517,4 +12521,4 @@ Chillzone
 
 Matsu
 
-Folktravlr
+Folktravlr (gave some notes) 
