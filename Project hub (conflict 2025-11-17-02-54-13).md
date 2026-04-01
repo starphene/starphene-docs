@@ -119,6 +119,8 @@ Characters using different types of grammatical errors to speak
 
 Game where you die randomly to stealth, reload a save and avenge your own death
 
+Mindblower abuse as a narrative tool
+
 Game which gaslights the player into questioning what's going on with the story
 
 A top down real time shooter set in the starbloods universe
