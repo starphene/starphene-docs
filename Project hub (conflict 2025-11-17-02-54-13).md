@@ -1,13 +1,11 @@
-﻿Idea hub
+﻿# Idea hub
+## Character ideas
 
 A character which represents order but slowly starts realizing that order is impossible 
 
-A nightmare in a nightmare where people switch souls basically
-
-A plane which approaches a target to diveshoot, shart shooting, and then just invert velocity via the bullets' momentum and bail in style
-
-Kids being lynched for refusing to pledge allegiance to the american flag
-
+## Worldbulding ideas
+    
+Parody of horoscopes where the ideology is being an asshole to everyone and maximizing suffering, with the best thing being polar opposite signs.
 Ass, dick, pussy, puke, cum, piss, shit, dandruff, earwax, snot, pus, sweat
 Starfish/Ass
 Eggplant/Dick
@@ -22,27 +20,129 @@ Gel/Snot (people who absorb others' shittiness too eagerly and become shitty the
 Ichor/Pus (people who bottle up their frustrations so badly that it rots them on the inside) 
 Vapor/Sweat (people who just absolutely suck to be around not due to converting their frustrations into attacks on others but simply because they have a gross personality) 
 
+Kids being lynched for refusing to pledge allegiance to the american flag
 
-"Shovel for number" as the worst pickup line ever
+A nightmare plane where people people wake up to find themselves in someone else's body
+
+Everywhen concept, people face backwards when go forward in time, aluna as a metaphysical archive of all possible information which is also alive and in tune with the universe
+
+A magic system around the emotion pallette 
+
+Giant trees as big bad objects that plague the world like oblivion gates
+
+A society of hive minds
+
+Smartphone based magic system
+
+Dimensions where people's best and worst images of themselves live together (separately best and worst) 
+
+Peach the arc raiders scumbag streamer crashing out on a guy for playing like an ass and harassing the fuck out of him while being a wolf in sheep's skin
+
+Strelkov's badassery
+
+That one french guy with a name of F who had an insatiable hunger 
+
+Trading card mafia
+
+People with random obscure pathology
+
+A horrible person being someone's hero
+
+Ageless child stuck in an eternal collectathon (pokemon metacommentary)
+
+Character who fought everyone and remembers everyones movesets which is why they are so difficult (and they also have an optimal strategy to get people to give up on fighting them as their combat strat) 
+
+Post-consent as ideology
+
+Wacky modification of human brain structure and psychology, like being harder to tell different people apart 
+
+Monkeys kidnapping babies of different monkey species
+
+Ritualistic consumption of babies by billionaires
+
+## Structure ideas
+
+A deep dive into chaotic evil minions with higher pitched voices explaining why they're the way they are through dark storytelling (dot from numericons movie, harry from tsunderswap)
+
+A trojan horse game which teaches the users math
+
+The fiction in fiction merging with the fiction real life and characters struggling to accept it
+
+A group of world destroyers fighting world conquerors and world #1 chasers
+
+An exaggerated anime version of america
+
+Magic noah adventure game? 
+
+(starbloods) undercover operation but everyone is undercover
+
+Discarded concepts and artistic creations struggling with life
+
+Several types of damage you can block with specific characters or skills, the rest you can't
+
+Several chosen ones within the same story
+
+Traditional public figures of gay people struggling to accept not stereotypical ones existing
+
+Game where you die randomly to stealth, reload a save and avenge your own death
+
+Mindblower abuse as a narrative tool
+
+Fight or flight response tree as a core for RPS combat
+
+Game which gaslights the player into questioning what's going on with the story (went to starbloods manifesto)
+
+A game which teaches people how to actually understand social interactions
+
+Dead people reborn in a jrpg
+
+Properly deep timeloop game which takes full advantage of the concept
+
+## Minor local quirks and minor symbolism ideas
+
+"my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
+
+Characters using different types of grammatical errors to speak
+
+Cat chasing its own tail
+
+Lemon juice as a disguise
+
+An airplane which approaches a target to diveshoot, shart shooting, and then just invert velocity via the bullets' momentum and bail in style
 
 Corporate flanserization of animal farm (or other serious novels like blood meridian)
 
 Distorted faces as fashion
 
-"satan will be seeing you early"
-
-A deep dive into chaotic minions with higher pitched voice explaining why they're the way they are through dark storytelling 
-
-A trojan horse game which teaches the users math
-
 Gravastars as dead stars with a shell made out of infinidecimal thick ultra dense matter but filled with an ultra vacuum and the purest form of energy known
 
-(starbloods) undercover operation but everyone is undercover
+Depressing christmas where everyone was pissed at eachother
 
-The fiction in fiction merging with the fiction real life and characters struggling to accept it
+Davy crocker gun
 
-Vierergrouppe
-Einheit
+Gun with square bullets for muslims
+
+A bull with horns that shoot bullets
+
+Flat earther antarctica expedition
+
+A ring that burns the wearer
+
+Phlogiston as a theoretical substance contained inside burnables released when something is burnt
+
+Calx as the metal oxide produced after a heated metal gets oxidized
+
+1A fictional being reaching reality through getting a real person to help put them inside a robot
+
+Rugpulling as a magic attack
+
+## Quotes
+
+"Shovel for number" as the worst pickup line ever
+
+"satan will be seeing you early"
+
+"your goals are beyond your understanding" 
 
 "Nothing happened on Tannenbaum Square on 4.8.2089, stop asking us that. In other news, celebrity Jane Borisovkaya has made an unprecedented move to discard her old teapot and buy a new one as she didn't like the color. Isn't that crazy?" 
 "Donating your body to the government triples your chances of going to heaven", pastor says. 
@@ -52,191 +152,144 @@ Einheit
 "Someone help us, please. I hate this place so much." (vici saying it, implied) 
 "Donating to charity is raw communism. Donating to the military is the essence of basedness."
 An ad line about a high percentage of civilians experiencing SA and police focusing on war instead 
-
-Depressing christmas where everyone was pissed at eachother
-
-Historical events as names for weapons (Century of Humiliation) 
-
-"your goals are beyond your understanding" 
-
-Davy crocker gun
-
-Gun with square bullets for muslims
-
-A group of world destroyers fighting world conquerors and world #1 chasers
+(all for starbloods ads)
 
 " i know this defies the laws of gravity but i never studied law" 
 
-A magic system around the emotion pallette 
+## Names, labels, titles
 
-A bull with horns that shoot bullets
+Vierergrouppe
+Einheit
+Historical events as names for weapons (Century of Humiliation) 
+Real name with modified letters and a ' (Vill'ain)
+
+## Philosophical concepts
 
 Accountability psychosis
 
-An exaggerated anime version of america
-
-Magic noah adventure game? 
-
-Flat earther antarctica expedition
-
-A ring that burns the wearer
-
-Heaven - earth - heaven structure being swapped with a metaphysical wheel where going high enough past heaven or low enough past hell eventually loops you back around. All metaphysical levels also move in time.
-
-Blank slate - green age - space age - apotheosis - heaven warfare - hellish ruins - total extinction
-
-Phlogiston as a theoretical substance contained inside burnables released when something is burnt
-
-Calx as the metal oxide produced after a heated metal gets oxidized
-
-1A fictional being reaching reality through getting a real person to help put them inside a robot
-
-Everywhen concept, people face backwards when go forward in time, aluna as a metaphysical archive of all possible information which is also alive and in tune with the universe
-
-Discarded concepts struggling with life
-
-A society of hive minds
-
-Lemon juice as a disguise
-
-Giant trees as big bad objects that plague the world like oblivion gates
-
-Several types of damage you can block, the rest you can't
-
-Real name with modified letters and a '
-
-Several chosen ones
-
-Smartphone based magic system
-
-Cat chasing its own tail
-
-Traditional public figures of gay people struggling to accept not stereotypical ones existing
-
-Penrose star tilling, cube tilling, hexagon compound tilling
-
-Characters using different types of grammatical errors to speak
-
-Game where you die randomly to stealth, reload a save and avenge your own death
-
-Mindblower abuse as a narrative tool
-
-Game which gaslights the player into questioning what's going on with the story
-
-A top down real time shooter set in the starbloods universe
-
-A religious system where every single atom has a god attached to them
-
-A game which teaches people how to actually understand social interactions
-
 A game which projects my philosophy of humans being stupid
 
-"my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
 
-Dimensions where people's best and worst images of themselves live together (separately best and worst) 
 
 Plan for priority of fixes: shit ui or missing critical QOL in general > gameplay blockers > uneven difficulty progression > writing understandability issues > general logic issues > bugs > exploits
 
-Dead people reborn in a jrpg
+## Visual inspirations
 
-Peach crashing out on a guy for playing like an ass
+Penrose star tilling, cube tilling, hexagon compound tilling
 
-Strelkov's badassery
+Devil's pulput the landmark
 
-People with random obscure pathology
+The Blood Falls the landmark
 
-A horrible person being someone's hero
+Devils bath the landmark
 
-Ageless child stuck in an eternal collectathon
+Wandofsparking block rando as visual inspiration
 
-Character who fought everyone and remembers everyones movesets which is why they are so difficult (and they also have an optimal strategy to get people to give up on fighting them as their combat strat) 
-
-Post-consent as ideology
-
-Modification of human brain structure, like starting to confuse different people more easily 
-
-Visual inspiration: https://youtu.be/QA5veJAoWZo 
 Graycuber vids
 
-Project hub
+Bicomplex number project
+ 
 
-Game where artists which represent different angles fight together against slop and later ai slop
+
+(move this to terraria like project doc also name it project kenosis)Heaven - earth - heaven structure being swapped with a metaphysical wheel where going high enough past heaven or low enough past hell eventually loops you back around. All metaphysical levels also move in time.
+Blank slate - green age - space age - apotheosis - heaven warfare - hellish ruins - total extinction
+A religious system where every single atom has a god attached to them
+
+
+
+# Project hub
+
+*+ - on the higher end scope wise
+*- - on the lower end scope wise
+*? - scope unknown
+*C - complete idea which needs further conceptualization
+
+## Achievable in recent years
+
+The Exponent, an incremental city builder with dungeon crawling (project town game)
+
+A game where you are a worm who eats planets (that one worm project i did conceptualize)
+
+Game with chess themes and combat including mini chess matches with enemies. The board would have no more than 36 tiles for regular enemies, the player would only be given some of the OG chess unit types per battle. Each unit would have upgrades the player would be able to find or buy (like pawns that move sideways but eat forwards). Would include triangular, rhombic (square but sideways), hexagonal and octagonal variants (just the square version but between each corner there's an extra rotated square which would be used for something; each variant would get its own area), ~40-50 total sub-unit types, a customizable versus mode against an AI opponent or a local human opponent as a separate mode. The story would be about a rook which would get tired of not allowing to lead anything with their minions sometimes violating the rules and the final boss possibly involving it swapping pieces between eachother randomly creating a really fun climax like tenna and his minigames. Possible plot direction where you and enemies can cheat there's a central AI that decides these disputes causing the loser to skip their turn, and with this central ai going corrupt and favoring the main antagonist in disputes by gaslighting you and unfairly taking the main antagonist's stance
+
+A pvz clone about wizards, skeletons (instead of zombies) and spirits (who defend the lawn). 
+You're a part of a council of ghosts who go around protecting people's property from invading skeletons and necromancers while haunting furniture and home items to use as a substitute for plants in different environments, conditions and predicaments, with the game taking an angle of absurdist humor in its general theme and having the skeletons be very goofy and hilarious. 
+Free new worlds, free PVP + matchmaking dlc, paid randomizer and chaos mod dlc, paid level creator dlc
+Planned to be action packed like pvz1, with minigames, spirit stat randomizer mode, difficulty modes, expensive ability to combine spirits together to get something nasty, and maybe more. 
+
+Game where you play as a starblood stuck in a simulation as punishment for some sort of crime and get brainwashed and gaslighted by the simulation. (Project starbloods manifesto) *+
+
+## Concept is ready and is doable but not sure if it's worth it yet
+
+Ddlc x mgr cross. MC is Raiden, Sayori is Armstrong, Monica is Sundowner, Yuri is Monsoon and Natsuki is Sam. (PROJECT DDLC MGR) *-
+
+Paint tool-stylized RPG (maybe roguelike) *-
+
+Omori: The Hooligans (VN i think) *-
+
+Game where artists which represent different artstyles and directions fight together against slop and later ai slop
+Game where you explore different racist and generally bad stories and fight writers, pushy executives, censorship, racism, etc
+
+Top-down 2d shooter structured like an RDR game set in 2040's in the starbloods universe. Deep layered story, give the player "limitless" side activities involving randomly generated zones to clear, add procedually generated conversations (oblivion style but with more attention to background), add more setting-relevant gameplay variety, give the player ultimate freedom of choice (fnv style), possibly compromise hard sci-fi coded setting for the sake of increasing gameplay variety *+
+
+A roguelike which randomly generates an undertale like game from one of many templates *+
+
+Deltarune/deltatraveler-like game about guys who travel through universes and insane places and stuff so they could save these places and become powerful along the way, and they start going through bad and racist universes, fighting writers with god powers, with me explicitly abusing the main characters *+
+
+A game about 7 teens going on a vacation and getting isekai'd and gaining magical powers to slay beasts (7 colors of rainbow, a darkness parent and a light parent), inspired by sea of stars and deltarune *+
+
+## Bigger fish for when i am more ready
 
 Yume nikki x octopath traveler metaphor for storytelling
-
-Surreal game with shit like great mighty poo
-
-**Realistic sleep deprivation game** 
-**\
-`	`Core concept is shifting between dream world (rpg game) and real world (random jobs as random fun puzzles) with some characters being present both in the real world and in-game world 
-
-**Gunslugs-like game about atlanticism** 
-
-The protagonist is forced into the body of a character in a different story and after it ends, the story restarts. However, other undead are forced into other characters too, and they have to work together to end the timeloop
-
-A game where you are a worm who eats planets
+Realistic sleep deprivation game
+Core concept is shifting between dream world (rpg game) and real world (random jobs as random fun puzzles) with some characters being present both in the real world and in-game world (all this: Project Many doors)
 
 Bullet box battle gd/mario maker game
 
-A game where you are a flying bee which deconstructs tribalism
-
-Ddlc x mgr cross. MC is Raiden, Sayori is Armstrong, Monica is Sundowner, Yuri is Monsoon and Natsuki is Sam. 
-
-
-
-**Game where you explore different racist and generally bad stories and fight writers, pushy executives, censorship, racism, etc**
-
-**A game about different types of birds beating the shit out of eachother (crows vs owls for example)** 
-
-**Game where you travel through procedually generated universes**
-
-Game where you play as a starblood stuck in a simulation as punishment for some sort of crime and get brainwashed and gaslighted by the simulation.
-
-**Top-down 2d shooter structured like an RDR game set in 2040's in the starbloods universe. Deep layered story, give the player "limitless" side activities involving randomly generated zones to clear, add procedually generated conversations (oblivion style but with more attention to background), add more setting-relevant gameplay variety, give the player ultimate freedom of choice (fnv style), possibly compromise hard sci-fi coded setting for the sake of increasing gameplay variety** 
-
-**Paint tool-stylized RPG (maybe roguelike)** 
-
-**Undertale style roguelike**
-
-**Townsmen clone** 
-
-**Game with chess themes and combat including mini chess matches with enemies. The board would have no more than 36 tiles for regular enemies, the player would only be given some of the OG chess unit types per battle. Each unit would have upgrades the player would be able to find or buy (like pawns that move sideways but eat forwards). Would include triangular, rhombic (square but sideways), hexagonal and octagonal variants (just the square version but between each corner there's an extra rotated square which would be used for something; each variant would get its own area), ~40-50 total sub-unit types, a customizable versus mode against an AI opponent or a local human opponent as a separate mode. The story would be about a rook which would get tired of not allowing to lead anything with their minions sometimes violating the rules and the final boss possibly involving it swapping pieces between eachother randomly creating a really fun climax like tenna and his minigames. Possible plot direction where you and enemies can cheat there's a central AI that decides these disputes causing the loser to skip their turn, and with this central ai going corrupt and favoring the main antagonist in disputes by gaslighting you and unfairly taking the main antagonist's stance**
-
-**A pvz clone about wizards, skeletons (instead of zombies) and spirits (who defend the lawn).** 
-
-**You're a part of a council of ghosts who go around protecting people's property from invading skeletons and necromancers while haunting furniture and home items to use as a substitute for plants in different environments, conditions and predicaments, with the game taking an angle of absurdist humor in its general theme and having the skeletons be very goofy and hilarious.** 
-
-**Free new worlds, free PVP + matchmaking dlc, paid randomizer and chaos mod dlc, paid level creator dlc**
-
-`	`Planned to be action packed like pvz1, with minigames, spirit stat randomizer mode, difficulty modes, expensive ability to combine spirits together to get something nasty, and maybe more. 
-
-**Something pokemon inspired?** 
-
-**A roguelike which randomly generates an undertale like game from one of many templates** 
-
-**Undertale like game with a lot of soul modes and a lot of cool fights, described above. (plus a sequel, a prequel and a same universe MMORPG spinoff) (probably actually gonna instead focus on a long story that keeps the player on track with new characters, challenges and mechanics)** 
-
-**Mechatale (undertale fangame, but with mainly robots)** 
-
-**Deltarune/deltatraveler-like game about guys who travel through universes and insane places and stuff so they could save these places and become powerful along the way, and they start going through bad and racist universes, fighting writers with god powers, with me explicitly abusing the main characters**
-
-**A game about 7 teens going on a vacation and getting isekai'd and gaining magical powers to slay beasts, inspired by sea of stars and deltarune**
-
-**Terraria/Starbound like game (maybe?)**
-
-**Class selection would be replaced with the player getting 4 attack stats to choose from, and the player would be encouraged to pick 2 out of 4, resulting in 6 possible progression paths.** 
-
-**Maybe noita like customizable magic system. Maybe general customuzability for all weapons.** 
+Terraria/Starbound like game (maybe?)
+Class selection would be replaced with the player getting 4 attack stats to choose from, and the player would be encouraged to pick 2 out of 4, resulting in 6 possible progression paths. 
+Maybe noita like customizable magic system. Maybe general customuzability for all weapons. 
 Melee will only be true melee pretty much
 There would be a summoner class which would have be player attack using defeated enemies
 Ranged weapons would have a few customizable components
 
-**DS3 clone (might be too expensive)**
+Everscript
 
-**FNV-like game set in russia (might be too expensive)**
+## Maybe in 10 years, definitely nothing to do any time soon
 
+DS3 clone (might be too expensive)
 
-Soda projects:
+Snowy fnv like game set in post apocalyptic russia
+
+## Unprocessed ideas to amalgamate into further ideas or to complete
+
+Timeloop game where you're a guard guarding something and there's a stealth killer killing you over and over again and trying to infiltrate the facility you are guarding *C
+
+Surreal game with shit like great mighty poo
+
+The protagonist is forced into the body of a character in a different story and after it ends, the story restarts. However, other undead are forced into other characters too, and they have to work together to end the timeloop
+
+A game where you are a flying bee which deconstructs tribalist psychology
+
+A game about different types of birds beating the shit out of eachother (crows vs owls for example) 
+
+Game where you travel through procedually generated universes
+
+Something pokemon inspired? 
+
+## Obsolete projects kept here just for memories
+
+Gunslugs-like game about atlanticism 
+
+Townsmen clone (exponent is a better idea tbh)
+
+Undertale like game with a lot of soul modes and a lot of cool fights, described above. (plus a sequel, a prequel and a same universe MMORPG spinoff) (Everscript made this obsolete) 
+
+Mechatale (undertale fangame, but with mainly robots) 
+
+Something mgr core? 
+
+# Soda projects:
 
 Lemonlime sweetener syrup: 1/1/5 tsp ace k/saccharin/cyclamate per 750ml, of which ~15ml goes per liter of the final product 
 
@@ -251,7 +304,7 @@ Raspberry gooseberry non sweetener syrup: 6 citric, 6 malic, 2 citrate, 0.5 benz
 
 Artificial lemon juice: 4tsp citric, 2tsp extract, 1tsp sugar (per 200ml) (this is awful, don't do this) 
 
-Part time jobs options:
+# Part time jobs options:
 
 Pay per hour: 
 
