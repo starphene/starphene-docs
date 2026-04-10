@@ -12499,6 +12499,8 @@ Describe subjective interpretations, not reality
 
 When designing visual counterparts for characters, use hair symbolism
 
+Add characters random minor quirks to spice them up
+
 Instructions:
 
 Make sure the reader has enough info to picture the surroundings

@@ -98,6 +98,8 @@ Dead people reborn in a jrpg
 
 Properly deep timeloop game which takes full advantage of the concept
 
+Ability to come to a covenant with a god who would possess your body for the price of your soul being transported into their own personal realm
+
 ## Minor local quirks and minor symbolism ideas
 
 "my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
@@ -135,6 +137,10 @@ Calx as the metal oxide produced after a heated metal gets oxidized
 1A fictional being reaching reality through getting a real person to help put them inside a robot
 
 Rugpulling as a magic attack
+
+Nags camera watching god complex and my video game reality awareness
+
+
 
 ## Quotes
 
@@ -550,3 +556,13 @@ Don't use the word "fluff" in the form of slang
 When i ask programming related questions about GMS or godot, assume we're talking about the latest version
 
 Non-sycophant and prioritizing truth over appeasing me, honest
+
+# bicomplex number project
+
+Bicomplex numbers is an algebra where all numbers have 4 dimensions, regardless of representation, and this is an advanced calculator designed to handle them, made for you to screw around and get pretty images. These dimensions include the real counterpart a, the imaginary counterpart b*i (from the complex numbers you probably know, where i^2 = -1), the split counterpart c*j (from split complex numbers, where j^2=1) and the split-imaginary counterpart d*i*j (because i*j needs a separate axis to represent).
+
+The color grids handle the input for 2 dimensions of Z (first number) aswell as the output of chosen manipulation you want to do on the input numbers in the form of a color. You can look at it as a 3D graph, if you understand what that is. 
+The 3 grids at the bottom handle the input value for the rest of the dimensions for Z, and all 4 dimensions for W (second number), if it's present. 
+
+You can zoom out the colory grids by hovering over either of them and scrolling!
+You can also drag them around with left click!  
