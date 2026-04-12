@@ -98,8 +98,6 @@ Dead people reborn in a jrpg
 
 Properly deep timeloop game which takes full advantage of the concept
 
-Ability to come to a covenant with a god who would possess your body for the price of your soul being transported into their own personal realm
-
 ## Minor local quirks and minor symbolism ideas
 
 "my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
@@ -137,10 +135,6 @@ Calx as the metal oxide produced after a heated metal gets oxidized
 1A fictional being reaching reality through getting a real person to help put them inside a robot
 
 Rugpulling as a magic attack
-
-Nags camera watching god complex and my video game reality awareness
-
-
 
 ## Quotes
 
@@ -282,6 +276,8 @@ A game about different types of birds beating the shit out of eachother (crows v
 Game where you travel through procedually generated universes
 
 Something pokemon inspired? 
+
+That one game where you're in a roguelike/metroidvania trapped in a bubble by an advanced civilization for the sake of experiments. There's also an own magic system they created via nanotechnology
 
 ## Obsolete projects kept here just for memories
 
@@ -557,12 +553,76 @@ When i ask programming related questions about GMS or godot, assume we're talkin
 
 Non-sycophant and prioritizing truth over appeasing me, honest
 
-# bicomplex number project
+*grid area*
 
-Bicomplex numbers is an algebra where all numbers have 4 dimensions, regardless of representation, and this is an advanced calculator designed to handle them, made for you to screw around and get pretty images. These dimensions include the real counterpart a, the imaginary counterpart b*i (from the complex numbers you probably know, where i^2 = -1), the split counterpart c*j (from split complex numbers, where j^2=1) and the split-imaginary counterpart d*i*j (because i*j needs a separate axis to represent).
+*grid*: 
+The color grids are the core of this software. They allow you to see the pretty colors representing the operation output!
 
-The color grids handle the input for 2 dimensions of Z (first number) aswell as the output of chosen manipulation you want to do on the input numbers in the form of a color. You can look at it as a 3D graph, if you understand what that is. 
-The 3 grids at the bottom handle the input value for the rest of the dimensions for Z, and all 4 dimensions for W (second number), if it's present. 
+The grids take input of 2 axes of Z (Z is the first number in the operation; all grids share the input axes) and output the value in the form of a color. These grids are counterparts of eachother: they share the same purpose and functionality, and are only different to represent different axes of the operation result. 
+You can hover over any cell to see what is actually being calculated and how. 
 
-You can zoom out the colory grids by hovering over either of them and scrolling!
-You can also drag them around with left click!  
+You can control the grids without the buttons on the left. The bindings are:
+Alt + Mouse Scroll -> Rotate grid
+Mouse Scroll -> Zoom in or out
+Mouse Scroll + Hold Shift: Zoom in or out, only horizontally
+Mouse Scroll + Hold Ctrl: Zoom in or out, only vertically
+You can also press any point on the grid to drag it around. 
+All controls require you to hover over a grid.
+
+Abovementioned manipulations to the grid draw arrows on the grids so you don't get disoriented.
+Blue and red arrows come from the numeric origin (point 0,0) and show the direction where both axes point towards initially. 
+If you zoom out only in one angle, you might find that it's possible to make it so these arrows aren't perpendicular, and that's a mathematically accurate consequence of this experimentation. It looks weird because it IS weird.
+
+Worried about breaking something? Don't, you're intended to break whatever you want, however you want! And if you go too far, there's always the reset button. 
+
+Hover over the color picker to see which colors represent which values. 
+
+*grid optionbuttons, 14 of them*
+You can click on the axes to swap them to a different one. It might produce different visuals. Don't worry about breaking the program, it's built to handle it! 
+
+*select grids*
+Since bicomplex numbers are 4-dimensional in nature, to define what happens when an operation is applied to it, you first need to define the values of the incoming numbers. Color grids handle 2 of the dimensions for Z (the first number of the operation), and these cell grids handle the rest of the dimensions for Z and the dimensions for W (the second number of the operation; absent if the chosen main operation doesn't require it). 
+
+The distance between each cell is 0.5 of a chosen unit, regardless of the representation form. 
+
+You don't have to click on cells every time you want to change them, you can just drag your mouse around. You can even spin the chosen cell in a grid around the center and observe the changes in real time! 
+
+Warning: due to complications of defining the value of numbers of a negative hyperpolar radius, trying to input a number like that will internally fail and return undefined instead. This is not shared with the polar-idempotent form. 
+
+*color slider ui 1*
+Gradient which shows which color does each output value shown by the color grids represents.  This one is for non-angular output values. 
+
+You use it to adjust the color you're seeing on the color grids if you're aiming for specific visuals.
+Click on any of the rectangles to change the colors values take at that threshold, or approach near that threshold. 
+Hover over the middle label and scroll to increment or decrement the values of all numeric thresholds. Hover over the second or forth labels and scroll to exponentially scale the values up or down. Don't be afraid that it'll scale too fast, it only scrolls by a factor of forth root of 2 each scroll. 
+
+Undefined and some overflown values show a specific color, internally calculated to be as far away from the values as possible while having saturation below 50%. You'll know it when you see it. 
+
+If you understand what scaling speed is, here's some extra info for clarity: the lowest and the highest section scale reverse-exponentially, the the middle two scale linearly. And so a value should never really output the colors at these thresholds unless in a case of a stack overflow. *adjust wording*
+
+*colorsliderui2*
+Gradient which shows which color does each output value shown by the color grids represents.  This one is for non-angular output values. 
+
+You use it to adjust the color you're seeing on the color grids if you're aiming for specific visuals.
+Hover over the gradient and scroll to shift it up or down. 
+
+Undefined and some overflown values show a specific color, internally calculated to be as far away from the values (of the other gradient) as possible while having saturation below 50%. You'll know it when you see it. 
+
+*number forms*
+Different number representation forms within the same general algebra. 
+
+Rectangular form:
+Little to explain. *number form*
+*i is this, j is this, ij is this*
+
+Idempotent form:
+Here's a fun fact about split-complex, qnd by extension bicomplex algebra: it has two numbers called idempotents, which are nothing which can be found in any algebra which isn't an extension of split-complex numbers. These numbers are (1+j)/2 and (1-j)/2 and they result in themselves when taken to any positive real power. 
+Another interesting number in these algebras are zero divisors, which are scalar multiples of any of the idempotents. Their properties are a radius or norm of zero but them themselves not being zero. They cannot be inverted and have numerical counterparts (any multiple of a polar opposite Idempotent), multiplying which together with themselves results in 0.
+
+ zero divisors, or numbers which have a modulus/norm of zero but aren't zero. These numbers are non invertible, and they have 
+
+
+Warning: due to complications of defining the value of numbers of a negative hyperpolar radius, trying to input a number like that will internally fail and return undefined instead. This is not shared with the polar-idempotent form. 
+
+
+*operations*
