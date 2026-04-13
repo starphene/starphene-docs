@@ -617,12 +617,42 @@ Little to explain. *number form*
 
 Idempotent form:
 Here's a fun fact about split-complex, qnd by extension bicomplex algebra: it has two numbers called idempotents, which are nothing which can be found in any algebra which isn't an extension of split-complex numbers. These numbers are (1+j)/2 and (1-j)/2 and they result in themselves when taken to any positive real power. 
-Another interesting number in these algebras are zero divisors, which are scalar multiples of any of the idempotents. Their properties are a radius or norm of zero but them themselves not being zero. They cannot be inverted and have numerical counterparts (any multiple of a polar opposite Idempotent), multiplying which together with themselves results in 0.
+Another interesting number in these algebras are zero divisors, which are products of any of the idempotents by any complex number. Their properties are having a radius or norm of zero, but them themselves not being zero. They cannot be inverted and have numerical counterparts (any product of a polar opposite idempotent), multiplying which together with themselves results in 0.
+For example: (1+j)*(1-j) = 0.
 
- zero divisors, or numbers which have a modulus/norm of zero but aren't zero. These numbers are non invertible, and they have 
+And so the idempotent form is the form which allows representing any complex number through these idempotents:
+(a+bi)*e+ + (c+di)*e-
+It's central to the split complex math as it has a lot of interesting properties, like making it extremely obvious which numbers are zero divisors. 
 
+It also has an absolutely insane property which made a lot of internal calculations way simpler:
+f((a+bi)*e+ + (c+di)*e-) = f(a+bi)*e+ + f(c+di)*e-
+for any algebraic function f(Z).
 
-Warning: due to complications of defining the value of numbers of a negative hyperpolar radius, trying to input a number like that will internally fail and return undefined instead. This is not shared with the polar-idempotent form. 
+Polar-idempotent form:
+
+Notice how the idempotent form is basically complex number multiplied by e+ plus another complex number multiplied by e-? 
+Well, it's possible to present these two complex numbers in the complex polar form. What is that, you may ask?
+Higher-dimensional numbers can be thought of as vectors. Vectors can be written in rectangular form of [a,b], or they can be represented as a number of a specific radius (distance from the origin) and the angle from the vector of [1,0], which just faces directly right. In that form, the second axis of the number starts looping in on itself as you increase or decrease its value, the same way traversing a perfectly round planet would eventually get you right where you started. That's why it's called the polar form. Converting a complex number into a polar form also expands the potential of complex numbers greatly because of a little thing called Euler's formula:
+e^(ipi*theta*) = cos(theta) + i*sin(theta) (theta is variable)
+Meaning, regardless of the theta that you input into that formula, you will always stick to the unit circle, which happens to always have a radius of 1. And if you multiply the left hand side by a custom radius, you can get any number on the complex plane, allowing representing complex numbers in the form of:
+re^(ipi*theta*)
+And therefore bicomplex numbers in the form of:
+e+ * r+ * e^(ipi*theta+*) + e- * r- * e^(ipi*theta-*)
+(+ and - to the side of r and theta are there to distinguish different variables from one another)
+
+Hyperspheric form:
+Remember how I mentioned vectors? Well, you can literally represent a bicomplex number as if they were a coordinate on a 4-dimensional sphere. Circles require 1 angle, spheres require 2, and hyperspheres require 3. So the first number is the radius, the rest of the 3 are angles.
+*formula*
+
+Warning: you can input negative radius in the two polar forms. While it's mathematically avoided generally, we really don't care. Doing this doesn't actually break anything, the angles just get inverted and the number gets calculated perfectly properly. For consistency's sake, output radius is always calculated to be 0. 
+
+Hyperbolic form:
+This one is actually insane. So, remember the Euler's formula for complex numbers? Well, it has a split-complex counterpart:
+e^jф = cosh(ф) + j*sinh(ф)
+Which also allows representing split complex numbers in the weird hyperbolic mirror of the polar form. Which in turn allows making ф AND r complex numbers. This allows representing pretty much any number which isn't a zero divisor:
+(Re(r) + Im(r))*e^(jф+ijtheta) 
 
 
 *operations*
+
+This is where the magic happens.

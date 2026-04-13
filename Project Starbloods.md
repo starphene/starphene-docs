@@ -12501,6 +12501,12 @@ When designing visual counterparts for characters, use hair symbolism
 
 Add characters random minor quirks to spice them up
 
+In that one chapter where adrians brain gets friend by vasils emotional projection, empathize further how it's specifically excessive application of artificial joy which fried his brain
+
+Make it so vasil stealthily uses his powers on others in calm moments to help the mood
+
+
+
 Instructions:
 
 Make sure the reader has enough info to picture the surroundings
