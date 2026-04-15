@@ -98,6 +98,10 @@ Dead people reborn in a jrpg
 
 Properly deep timeloop game which takes full advantage of the concept
 
+Research religious calamities
+
+Enemy vs enemy battler
+
 ## Minor local quirks and minor symbolism ideas
 
 "my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
@@ -135,6 +139,8 @@ Calx as the metal oxide produced after a heated metal gets oxidized
 1A fictional being reaching reality through getting a real person to help put them inside a robot
 
 Rugpulling as a magic attack
+
+Research religious proxies for psychology
 
 ## Quotes
 
@@ -654,5 +660,37 @@ Which also allows representing split complex numbers in the weird hyperbolic mir
 
 
 *operations*
-
+*add false conversion op and move modulus way down*
 This is where the magic happens.
+
+The way this software works is that you choose to apply the mandatory main operation, which allows the basic functionality. However, you can also apply an operation to each of the incoming values, and the operation result, squaring your experimentation potential and then squaring it once again as if you couldn't have enough fun already, allowing you to plot what sin(sin(sin(Z))) looks like and more! 
+
+My favorite operations to screw around with include: exponentiation, sin, cos, tan, their hyperbolic counterparts, Z^Z, Z^1/Z and the factorial. Lots of crazy visuals to explore, with different number forms, axes swaps and the button to switch Z and W in the bottom left each amplifying the magnitude of potential even further. 
+
+Apply operations of zeta and eta at your own risk, these ones are quite laggy. You probably want to give the app realtime priority in task manager too, given how there can be tens of thousands of calculations happening every second internally if not several magnitudes more. 
+
+*grid rotation and grid step*
+
+If grid scroll controls aren't your style, this is an equally viable substitute. Press shift to increment values further! 
+
+*Resolution*
+
+Color grids draw more cells, therefore increasing resolution. 
+
+Watch out, the performance load scales in square with resolution increase! Well, because the color grids are squares. 
+
+*precision and branches*
+
+Some operations have multivalued results. The principal branch is chosen by default, but you can change the branch or branches to produce a different result, even if it may not do that much. 
+
+Some functions have 4 branches to configure, but for simplicity's sake all branches of a single number are set to be the exact same. 
+
+Some operations also require approximation to calculate the final value due to the nature of deeply irrational numbers. The minimum values required for visuals arbitrarily close to perfection are already preset for you, but you can still adjust this precision up or down if you want. 
+
+High precision values WILL slow down performance severely. 
+
+*swap z and w*
+
+Some operations involve two numbers. However, what if you don't want to see 2j^Z but Z^2j instead? This is your solution.
+
+Note that some operations are commutative and will not change after a swap. 
