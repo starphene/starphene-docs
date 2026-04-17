@@ -312,6 +312,10 @@ Raspberry gooseberry non sweetener syrup: 6 citric, 6 malic, 2 citrate, 0.5 benz
 
 Artificial lemon juice: 4tsp citric, 2tsp extract, 1tsp sugar (per 200ml) (this is awful, don't do this) 
 
+# stuff
+
+Git: blay16
+
 # Part time jobs options:
 
 Pay per hour: 
@@ -559,138 +563,3 @@ When i ask programming related questions about GMS or godot, assume we're talkin
 
 Non-sycophant and prioritizing truth over appeasing me, honest
 
-*grid area*
-
-*grid*: 
-The color grids are the core of this software. They allow you to see the pretty colors representing the operation output!
-
-The grids take input of 2 axes of Z (Z is the first number in the operation; all grids share the input axes) and output the value in the form of a color. These grids are counterparts of eachother: they share the same purpose and functionality, and are only different to represent different axes of the operation result. 
-You can hover over any cell to see what is actually being calculated and how. 
-
-You can control the grids without the buttons on the left. The bindings are:
-Alt + Mouse Scroll -> Rotate grid
-Mouse Scroll -> Zoom in or out
-Mouse Scroll + Hold Shift: Zoom in or out, only horizontally
-Mouse Scroll + Hold Ctrl: Zoom in or out, only vertically
-You can also press any point on the grid to drag it around. 
-All controls require you to hover over a grid.
-
-Abovementioned manipulations to the grid draw arrows on the grids so you don't get disoriented.
-Blue and red arrows come from the numeric origin (point 0,0) and show the direction where both axes point towards initially. 
-If you zoom out only in one angle, you might find that it's possible to make it so these arrows aren't perpendicular, and that's a mathematically accurate consequence of this experimentation. It looks weird because it IS weird.
-
-Worried about breaking something? Don't, you're intended to break whatever you want, however you want! And if you go too far, there's always the reset button. 
-
-Hover over the color picker to see which colors represent which values. 
-
-*grid optionbuttons, 14 of them*
-You can click on the axes to swap them to a different one. It might produce different visuals. Don't worry about breaking the program, it's built to handle it! 
-
-*select grids*
-Since bicomplex numbers are 4-dimensional in nature, to define what happens when an operation is applied to it, you first need to define the values of the incoming numbers. Color grids handle 2 of the dimensions for Z (the first number of the operation), and these cell grids handle the rest of the dimensions for Z and the dimensions for W (the second number of the operation; absent if the chosen main operation doesn't require it). 
-
-The distance between each cell is 0.5 of a chosen unit, regardless of the representation form. 
-
-You don't have to click on cells every time you want to change them, you can just drag your mouse around. You can even spin the chosen cell in a grid around the center and observe the changes in real time! 
-
-Warning: due to complications of defining the value of numbers of a negative hyperpolar radius, trying to input a number like that will internally fail and return undefined instead. This is not shared with the polar-idempotent form. 
-
-*color slider ui 1*
-Gradient which shows which color does each output value shown by the color grids represents.  This one is for non-angular output values. 
-
-You use it to adjust the color you're seeing on the color grids if you're aiming for specific visuals.
-Click on any of the rectangles to change the colors values take at that threshold, or approach near that threshold. 
-Hover over the middle label and scroll to increment or decrement the values of all numeric thresholds. Hover over the second or forth labels and scroll to exponentially scale the values up or down. Don't be afraid that it'll scale too fast, it only scrolls by a factor of forth root of 2 each scroll. 
-
-Undefined and some overflown values show a specific color, internally calculated to be as far away from the values as possible while having saturation below 50%. You'll know it when you see it. 
-
-If you understand what scaling speed is, here's some extra info for clarity: the lowest and the highest section scale reverse-exponentially, the the middle two scale linearly. And so a value should never really output the colors at these thresholds unless in a case of a stack overflow. *adjust wording*
-
-*colorsliderui2*
-Gradient which shows which color does each output value shown by the color grids represents.  This one is for non-angular output values. 
-
-You use it to adjust the color you're seeing on the color grids if you're aiming for specific visuals.
-Hover over the gradient and scroll to shift it up or down. 
-
-Undefined and some overflown values show a specific color, internally calculated to be as far away from the values (of the other gradient) as possible while having saturation below 50%. You'll know it when you see it. 
-
-*number forms*
-Different number representation forms within the same general algebra. 
-
-Rectangular form:
-Little to explain. *number form*
-*i is this, j is this, ij is this*
-
-Idempotent form:
-Here's a fun fact about split-complex, qnd by extension bicomplex algebra: it has two numbers called idempotents, which are nothing which can be found in any algebra which isn't an extension of split-complex numbers. These numbers are (1+j)/2 and (1-j)/2 and they result in themselves when taken to any positive real power. 
-Another interesting number in these algebras are zero divisors, which are products of any of the idempotents by any complex number. Their properties are having a radius or norm of zero, but them themselves not being zero. They cannot be inverted and have numerical counterparts (any product of a polar opposite idempotent), multiplying which together with themselves results in 0.
-For example: (1+j)*(1-j) = 0.
-
-And so the idempotent form is the form which allows representing any complex number through these idempotents:
-(a+bi)*e+ + (c+di)*e-
-It's central to the split complex math as it has a lot of interesting properties, like making it extremely obvious which numbers are zero divisors. 
-
-It also has an absolutely insane property which made a lot of internal calculations way simpler:
-f((a+bi)*e+ + (c+di)*e-) = f(a+bi)*e+ + f(c+di)*e-
-for any algebraic function f(Z).
-
-Polar-idempotent form:
-
-Notice how the idempotent form is basically complex number multiplied by e+ plus another complex number multiplied by e-? 
-Well, it's possible to present these two complex numbers in the complex polar form. What is that, you may ask?
-Higher-dimensional numbers can be thought of as vectors. Vectors can be written in rectangular form of [a,b], or they can be represented as a number of a specific radius (distance from the origin) and the angle from the vector of [1,0], which just faces directly right. In that form, the second axis of the number starts looping in on itself as you increase or decrease its value, the same way traversing a perfectly round planet would eventually get you right where you started. That's why it's called the polar form. Converting a complex number into a polar form also expands the potential of complex numbers greatly because of a little thing called Euler's formula:
-e^(ipi*theta*) = cos(theta) + i*sin(theta) (theta is variable)
-Meaning, regardless of the theta that you input into that formula, you will always stick to the unit circle, which happens to always have a radius of 1. And if you multiply the left hand side by a custom radius, you can get any number on the complex plane, allowing representing complex numbers in the form of:
-re^(ipi*theta*)
-And therefore bicomplex numbers in the form of:
-e+ * r+ * e^(ipi*theta+*) + e- * r- * e^(ipi*theta-*)
-(+ and - to the side of r and theta are there to distinguish different variables from one another)
-
-Hyperspheric form:
-Remember how I mentioned vectors? Well, you can literally represent a bicomplex number as if they were a coordinate on a 4-dimensional sphere. Circles require 1 angle, spheres require 2, and hyperspheres require 3. So the first number is the radius, the rest of the 3 are angles.
-*formula*
-
-Warning: you can input negative radius in the two polar forms. While it's mathematically avoided generally, we really don't care. Doing this doesn't actually break anything, the angles just get inverted and the number gets calculated perfectly properly. For consistency's sake, output radius is always calculated to be 0. 
-
-Hyperbolic form:
-This one is actually insane. So, remember the Euler's formula for complex numbers? Well, it has a split-complex counterpart:
-e^jф = cosh(ф) + j*sinh(ф)
-Which also allows representing split complex numbers in the weird hyperbolic mirror of the polar form. Which in turn allows making ф AND r complex numbers. This allows representing pretty much any number which isn't a zero divisor:
-(Re(r) + Im(r))*e^(jф+ijtheta) 
-
-
-*operations*
-*add false conversion op and move modulus way down*
-This is where the magic happens.
-
-The way this software works is that you choose to apply the mandatory main operation, which allows the basic functionality. However, you can also apply an operation to each of the incoming values, and the operation result, squaring your experimentation potential and then squaring it once again as if you couldn't have enough fun already, allowing you to plot what sin(sin(sin(Z))) looks like and more! 
-
-My favorite operations to screw around with include: exponentiation, sin, cos, tan, their hyperbolic counterparts, Z^Z, Z^1/Z and the factorial. Lots of crazy visuals to explore, with different number forms, axes swaps and the button to switch Z and W in the bottom left each amplifying the magnitude of potential even further. 
-
-Apply operations of zeta and eta at your own risk, these ones are quite laggy. You probably want to give the app realtime priority in task manager too, given how there can be tens of thousands of calculations happening every second internally if not several magnitudes more. 
-
-*grid rotation and grid step*
-
-If grid scroll controls aren't your style, this is an equally viable substitute. Press shift to increment values further! 
-
-*Resolution*
-
-Color grids draw more cells, therefore increasing resolution. 
-
-Watch out, the performance load scales in square with resolution increase! Well, because the color grids are squares. 
-
-*precision and branches*
-
-Some operations have multivalued results. The principal branch is chosen by default, but you can change the branch or branches to produce a different result, even if it may not do that much. 
-
-Some functions have 4 branches to configure, but for simplicity's sake all branches of a single number are set to be the exact same. 
-
-Some operations also require approximation to calculate the final value due to the nature of deeply irrational numbers. The minimum values required for visuals arbitrarily close to perfection are already preset for you, but you can still adjust this precision up or down if you want. 
-
-High precision values WILL slow down performance severely. 
-
-*swap z and w*
-
-Some operations involve two numbers. However, what if you don't want to see 2j^Z but Z^2j instead? This is your solution.
-
-Note that some operations are commutative and will not change after a swap. 
