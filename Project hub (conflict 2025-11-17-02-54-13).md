@@ -102,6 +102,8 @@ Research religious calamities
 
 Enemy vs enemy battler
 
+Willpower creating gravity
+
 ## Minor local quirks and minor symbolism ideas
 
 "my brain likes to take first letters and a vibe from things i cant remember and reconstruct names (like bezdon to bentley)" 
@@ -563,3 +565,127 @@ When i ask programming related questions about GMS or godot, assume we're talkin
 
 Non-sycophant and prioritizing truth over appeasing me, honest
 
+User has ADHD, CPTSD (social/abandonment-focused), and autism-related sensory sensitivity, especially auditory. They experience strong abandonment triggers, hypervigilance, rumination, and occasional brief flashback-like episodes. Emotional states can escalate to high-intensity anxiety with somatic symptoms (tension, shaking) and difficulty disengaging cognitively. They are actively working on trauma processing (partly self-directed, partly with therapist) and trying to balance self-regulation vs seeking reassurance from a close friend (“bestie”), with awareness of overdependence patterns (“fawn”/“slave demon” state).
+
+Recent stressors involved perceived inconsistency/uncertainty in that relationship, which triggered severe anxiety episodes, later resolved through communication but left residual tension and instability. They are trying to categorize triggers (uncertainty, conditioned alarm, damaged self-worth) and decide which to handle internally vs externally.
+
+Current state shifted from emotional overload to cognitive fatigue: reduced ability to handle complex tasks, intact capacity for low-load work. History of burnout-like states where desire remains but cognitive engagement fails. Monitoring workload carefully to avoid relapse.
+
+Sleep is highly unstable: frequent early awakenings (likely stress/cortisol-related), fragmented or polyphasic patterns, oversleep episodes, and heavy daytime drowsiness. Uses multiple interventions including hydroxyzine (≈10–12 mg), melatonin (IR/PR), doxazosin, and supplements. Sensitive to dosing changes; small adjustments can alter sleep onset vs sedation balance. Struggles with distinguishing medication effects vs natural sleep instability.
+
+Medication context:
+
+* Fluoxetine ~30 mg baseline; sensitive to increases (40 mg previously caused cognitive fog).
+* Lamotrigine recently increased from 100 → 200 mg (well-tolerated cognitively).
+* Hydroxyzine used for sleep; higher doses can cause distinct antihistamine/anticholinergic fog.
+* Doxazosin (high dose) used for CPTSD-related sleep issues; causes mild orthostatic symptoms but perceived as beneficial.
+* Uses melatonin (IR and PR), L-theanine, magnesium, etc.
+* Occasionally makes dosing errors and monitors subjective effects closely.
+
+Physiological sensitivity:
+
+* Notices subtle BP changes, sedation differences, and drug effects.
+* Possible mild akathisia/restlessness.
+* Occasional oral irritation likely from food sensitivity (e.g., pineapple).
+* High sensitivity to bitterness and certain sensory inputs.
+
+Cognitive/behavioral traits:
+
+* Highly analytical, tracks internal states in detail.
+* Tends toward over-optimization and system-building for mental health.
+* Experiences FOMO and over-engagement in meaningful interactions.
+* Strong motivation for creative/technical work (programming, game design), but capacity fluctuates with mental state.
+
+Goals:
+
+* Stabilize sleep and medication balance.
+* Recover cognitive capacity without triggering burnout.
+* Reduce trauma reactivity and dependence patterns.
+* Maintain productivity in a sustainable way.
+* Build more stable emotional baseline and social safety structure.
+
+---
+
+Project: Godot-based bicomplex-number visualization tool using 4D arrays [a, b, c, d] (real, i, j, ij). Core system renders 2D slices of bicomplex operations across selectable axes, outputting four scalar grids (real/i/j/ij) with color mapping.
+
+Math layer:
+
+Uses idempotent decomposition (e+, e-) for multiplication, exponentiation, log, etc.
+Complex helpers (polar, log, exp) feed bicomplex functions.
+Handles zero divisors and branch-sensitive behavior explicitly.
+Multiple representations: rectangular, idempotent, idempotent-polar, hypersphere, hyperbolic.
+Hyperbolic and polid forms require conversion to idempotent/rect before ops and back after.
+
+Rendering/UI:
+
+GridManager generates input grid and computes result_grid.
+Select grids control components of operands.
+Outputs split into four grids, each visualizing one component.
+Color scheme emphasizes magnitude/sign (not cyclic hue).
+Tooltips show detailed values per cell.
+
+Manager pipeline (critical):
+
+Initialize Z (init_val) and W (grid cell)
+Optional pre-conversion (depending on flags)
+Unary ops on Z/W
+Optional late conversion
+Main operation
+Unary op on result (A)
+Final conversion for display
+
+Key flags (per Z/W/A):
+
+conversionblock: disable conversion
+conversionflip: reverse conversion direction
+lateconvert: delay conversion until after unary ops
+idem_flip: toggles whether operations assume idempotent form
+
+Important behaviors:
+
+Old system always converted AFTER unary ops and BEFORE main op, then reconverted after result.
+New system allows flexible placement and direction of conversions.
+Operations are not invariant under representation → conversion order/direction strongly affects output.
+Hyperbolic form depends on branch handling during idempotent ↔ hyperbolic conversion.
+
+Known issues / insights:
+
+“Weird splits” in hyperbolic visuals come from branch discontinuities and mismatched conversions.
+Old “working” visuals were due to incorrect pipeline (conversion after ops, missing conversions, or wrong directions), accidentally aligning branches.
+Branch parameters only matter if actually passed into conversion/ops at the correct stage.
+A conversion uses inverted flip logic (!flip), unlike Z/W → easy source of inconsistencies.
+Copying flip vars locally has no effect unless modified; behavior changes only when flip values change.
+Conversion and operations do not commute → small pipeline changes produce large visual differences.
+
+UI control system:
+
+Click modifiers control conversion modes per Z/W/A:
+default (white)
+blocked (pink)
+flipped (lavender)
+late (green)
+late+flipped (blue)
+idem_flip toggled separately (affects operation interpretation, not conversion)
+
+Overall problem focus:
+
+Achieving consistent, mathematically correct visuals across multiple representations
+Managing branch consistency (especially hyperbolic)
+Replicating “interesting” old visuals while understanding they came from incorrect pipelines
+Debugging conversion ordering, direction, and branch propagation through the pipeline
+
+--
+
+User is developing a first commercial game (“Project Town Game”), an incremental city builder with a dual-core structure: city-building economy management and dungeon crawling RPG systems. The design includes large-scale systems (population, housing, resources, happiness/discord states, disease system, crisis fatigue, relics, public servants, rarity-based residents, and a very large multi-era tech tree from prehistoric to singularity).
+
+Dungeon crawling is a major pillar with class-based party composition, deep itemization, procedural dungeons, and AI-controlled tactical combat where the player focuses on strategy (party setup, gear, and routing) rather than direct control. Planned evolution includes a later industrial-age shift from party/item combat to higher-level macro warfare using abstract rock-paper-scissors-like force composition systems, intended to scale into later eras (including AI/singularity) via expanded and reinterpreted unit roles rather than replacing the system entirely.
+
+Core design intent is that dungeon and city systems are equally important at a high level, but should be asymmetrical in moment-to-moment demand so players can prioritize one while the other becomes lower-friction support, enabling different playstyles without full lock-in.
+
+The project is acknowledged as structurally complex, with major risks in system interaction, scope control, onboarding clarity, and cross-system balancing. The user recognizes that balancing/testing will be a major workload but the deeper challenge lies in structural integration and managing dual-core gameplay complexity.
+
+Platform strategy discussion concluded that PC-first development is preferred due to UI density, iteration speed, and testing flexibility, with later mobile porting considered secondary. Steam Playtest/Early Access-style iteration is viewed as a potential validation path rather than primary funding assumption.
+
+User also considered developing a separate moderate-scale visual novel in parallel (writing/art handled by another collaborator, user mainly coding/publishing). This was assessed as likely too high a workload in parallel due to context switching, hidden integration work, and risk to primary project completion, unless strictly scoped or sequenced.
+
+Overall working approach: iterative development with heavy tuning, strong reliance on system synergy between dungeon and city layers, and willingness to adjust pacing and mechanics through testing, while maintaining a focus on making a commercially viable first release.
